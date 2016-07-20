@@ -2,6 +2,7 @@ body{
   background-color: black;
   color: white;
   font-family: "Courier New", Courier, monospace;
+  text-align: center;
 }
 a:link {
   color: darkcyan
@@ -9,22 +10,25 @@ a:link {
 a:visited {
   color: darkcyan
 }
-code{
+code {
   white-space: pre;
 }
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #000;
     position: sticky;
     top: 0;
     width: auto;
+    text-align: center;
 }
 
 li {
     float: left;
+    text-align: center;
 }
 
 li a {
@@ -35,10 +39,38 @@ li a {
     text-decoration: none;
 }
 
+/* Float images */
+img.floatRight {
+    float:right;
+}
+
+img.floatLeft {
+    float:left;
+}
+
+img.floatMiddle {
+    float:middle;
+}
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #111;
 }
 .active {
   background-color: #4CAF50;
+}
+
+#topBand {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #222;
+    position:relative;
+    left:inherit;
+}
+#buttons{
+    float:right;
+    position:relative;
+    left:-50%;
+    text-align:left;
 }
