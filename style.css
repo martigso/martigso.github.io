@@ -74,3 +74,24 @@ li a:hover {
     left:-50%;
     text-align:left;
 }
+#buttons ul{
+    list-style:none;
+    position:relative;
+    left:50%;
+}
+
+#buttons li{float:left;position:relative;}/* ie needs position:relative here*/
+
+#buttons a{
+    text-decoration:none;
+    margin:10px;
+    background:#000;
+    float:left;
+    border:2px outset #000;
+    color:darkcyan;
+    padding:2px 5px;
+    text-align:center;
+    white-space:nowrap;
+}
+#buttons a:hover{ border:2px inset #111;color:darkcyan;background:#000;}
+#content{overflow:hidden}/* hide horizontal scrollbar*/
