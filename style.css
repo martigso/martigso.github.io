@@ -87,11 +87,11 @@ li a:hover {
     margin:10px;
     background:#000;
     float:left;
-    border:2px outset #000;
+    border:0px outset #000;
     color:darkcyan;
-    padding:2px 5px;
+    padding:10px 10px;
     text-align:center;
     white-space:nowrap;
 }
-#buttons a:hover{ border:2px inset #111;color:darkcyan;background:#000;}
+#buttons a:hover{ border:2px inset #111;color:darkcyan;background:#222;}
 #content{overflow:hidden}/* hide horizontal scrollbar*/
