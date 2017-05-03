@@ -5,10 +5,10 @@ body{
   text-align: center;
 }
 a:link {
-  color: darkcyan
+  color: rgba(31,249,212,1);
 }
 a:visited {
-  color: darkcyan
+  color: rgba(31,249,212,1);
 }
 code {
   white-space: pre;
@@ -88,10 +88,10 @@ li a:hover {
     background:#000;
     float:left;
     border:0px outset #000;
-    color:darkcyan;
+    color:rgba(31,249,212,1);
     padding:10px 10px;
     text-align:center;
     white-space:nowrap;
 }
-#buttons a:hover{ border:2px inset #111;color:darkcyan;background:#222;}
+#buttons a:hover{ border:2px inset #111;color:rgba(31,249,212,1);background:#222;}
 #content{overflow:hidden}/* hide horizontal scrollbar*/
