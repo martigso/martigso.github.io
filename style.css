@@ -76,6 +76,7 @@ li a:hover {
     left:-50%;
     text-align:left;
 }
+
 #buttons ul{
     list-style:none;
     position:relative;
@@ -96,4 +97,11 @@ li a:hover {
     white-space:nowrap;
 }
 #buttons a:hover{ border:2px inset #111;color:rgba(31,249,212,1);background:#222;}
+
+#publinks{
+    text-align:center;
+}
+
+#buttons a:hover{ border:2px inset #111;color:rgba(31,249,212,1);background:#222;}
+
 #content{overflow:hidden}/* hide horizontal scrollbar*/
