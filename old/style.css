@@ -1,0 +1,107 @@
+body{
+  background-color: black;
+  background-size: cover;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 120%;
+  text-align: center;
+}
+a:link {
+  color: rgba(31,249,212,1);
+}
+a:visited {
+  color: rgba(31,249,212,1);
+}
+code {
+  white-space: pre;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+    position: sticky;
+    top: 0;
+    width: auto;
+    text-align: center;
+}
+
+li {
+    float: left;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Float images */
+img.floatRight {
+    float:right;
+}
+
+img.floatLeft {
+    float:left;
+}
+
+img.floatMiddle {
+    float:middle;
+}
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+.active {
+  background-color: #4CAF50;
+}
+
+#topBand {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #222;
+    position:relative;
+    left:inherit;
+}
+#buttons{
+    float:right;
+    position:relative;
+    left:-50%;
+    text-align:left;
+}
+
+#buttons ul{
+    list-style:none;
+    position:relative;
+    left:50%;
+}
+
+#buttons li{float:left;position:relative;}/* ie needs position:relative here*/
+
+#buttons a{
+    text-decoration:none;
+    margin:10px;
+    background:#000;
+    float:left;
+    border:0px outset #000;
+    color:rgba(31,249,212,1);
+    padding:10px 10px;
+    text-align:center;
+    white-space:nowrap;
+}
+#buttons a:hover{ border:2px inset #111;color:rgba(31,249,212,1);background:#222;}
+
+#publinks{
+    text-align:center;
+}
+
+#buttons a:hover{ border:2px inset #111;color:rgba(31,249,212,1);background:#222;}
+
+#content{overflow:hidden}/* hide horizontal scrollbar*/
