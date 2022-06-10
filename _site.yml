@@ -6,7 +6,7 @@ output:
     downcute_theme: "chaos"
     css: style.css
 navbar:
-  title: "Martin Søyland"
+  title: "Home"
   type: inverse
   left:
     - text: "Publications"
