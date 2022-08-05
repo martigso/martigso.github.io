@@ -17,6 +17,8 @@ navbar:
       href: teaching.html
     - text: "Data"
       href: data.html
+    - text: "R packages"
+      href: R.html
   right:
     github:
       icon: fa-github fa-lg
