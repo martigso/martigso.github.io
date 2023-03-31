@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: |
+    Martin Søyland
+  favicon: favicon.ico
+  page-navigation: true
+  navbar: 
+    search: true
+    left:
+      - publications.qmd
+      - conference.qmd
+      - teaching.qmd
+      - data.qmd
+      - R.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    mainfont: arial
