@@ -1,6 +1,0 @@
----
-title: "Conference Papers"
----
-
-Søyland, Martin (2019). [Party Control and the Effect of Institutional Design](https://www.researchgate.net/publication/344557496_Party_control_and_responsiveness_On_how_MPs_use_lower_level_institutional_design_variation_as_an_electoral_responsiveness_mechanism). Tuesday seminar, University of Oslo.<br><br>
-Søyland, Martin (2020). [Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text](https://www.researchgate.net/publication/344557289_Multi-party_Classification_of_Parliamentary_Debates_Intra-party_cohesion_and_Inter-Party_Relations_Measured_in_Text). Tuesday seminar, University of Oslo.<br><br>

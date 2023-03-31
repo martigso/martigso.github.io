@@ -1,8 +1,0 @@
----
-title: "Teaching Material"
----
-
-[stv2022: Store tekstdata](https://shinyibv02.uio.no/content/11df8e17-5a81-477d-8e44-b4a6d90e4c72)<br>
-[stv4020a: R for Methods and Statistics (STV4020A)](https://github.com/martigso/stv4020aR)<br>
-[stv4020b: R for Statistical Analysis (STV4020B)](https://github.com/martigso/stv4020b) <br>
-[stv1020R: R for Methods and Statistics (STV1020)](https://github.com/martigso/stv1020R)
