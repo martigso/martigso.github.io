@@ -2,7 +2,7 @@
 title: "R packages"
 ---
 
-[stortingscrape: Access Data from the Norwegian Parliament API](https://cran.r-project.org/package=stortingscrape)<br><br>
+[stortingscrape: Access Data from the Norwegian Parliament API](https://cran.r-project.org/package=stortingscrape)<img src="https://github.com/martigso/stortingscrape/raw/master/man/figures/stortingscrape.png" width="20"/><br><br>
 [NorSentLex: Sentiment Dictionaries for Norwegian](https://github.com/martigso/NorSentLex)<br><br>
 [noRc: Automated Roll Call Structuring from Stortinget (experimental)](https://github.com/martigso/noRc)<br><br>
 [tonR: Read Talk of Norway Version of the CoNLL Data Format](https://github.com/ltgoslo/talk-of-norway/tree/master/src/R/tonR)<br><br>

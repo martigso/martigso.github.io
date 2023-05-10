@@ -3,5 +3,5 @@ title: "Conference Papers"
 ---
 
 - Søyland, Martin (2020). [Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text](/papers/classification_tuesdaysem2020.pdf). Tuesday seminar, University of Oslo.<br><br>
-- Søyland, Martin (2021). [stortingscrape: An R package for accessing data from the Norwegian parliament](/papers/stortingscrape_pods2021.pdf). Tuesday seminar, University of Oslo.<br><br>
-
+- Søyland, Martin (2021). [stortingscrape: An R package for accessing data from the Norwegian parliament](/papers/stortingscrape_pods2021.pdf). PODS seminar, University of Oslo.<br><br>
+- Bjørkholt, Solveig and Martin Søyland (2022). [Party Conflict and Coalition Control in Parliament](/papers/quest_sent_podsfall22.pdf). PODS workshop, University of Oslo.<br><br>

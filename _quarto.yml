@@ -19,7 +19,8 @@ website:
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
+      dark: [darkly, style.scss]
+      light: [flatly, style.scss]
     toc: true
-    mainfont: arial
+    mainfont: expressway
+    monofont: expressway
