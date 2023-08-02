@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "R.html",
+    "href": "R.html",
+    "title": "R packages",
     "section": "",
-    "text": "2022:\n\nParty Control and Responsiveness: How MPs Use Variation in Lower-Level Institutional Design as an Electoral Responsiveness Mechanism\n\n2021:\n\nCommittee-Membership Matters, Party Loyalty Decides in The Politics of Legislative Debates (Hanna Back, Marc Debus, and Jorge M. Fernandes) (Collaberation with Bjørn Høyland)\nClimate politics in har times: How local economic shocks influence MPs attention to climate change (Collaberation with Henning Finseraas and Bjørn Høyland)\n\n2019:\n\nIs all PR good PR? How the content of media exposure affects candidate popularity (Collaberation with Haakon Gjerløw and Peter Egge Langsæther)\nElectoral Reform and Parliamentary Debates (Collabeartion with Bjørn Høyland)\n\n2018:\n\nThe Talk of Norway: a richly annotated corpus of the Norwegian parliament, 1998–2016. (Collaberation with Emanuele Lapponi, Erik Velldal, and Stephan Oepen)\n\n2017:\n\nSurvival of the Ministers: On Ministerial Durability in Postwar Norway (2017)\n\n2015:\n\nTilbakeholden og ekspansiv liberalisme: - Om utenrikspolitikk i State of the Union-taler (2015)\n\nCollaborating authors:"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Material",
-    "section": "",
-    "text": "STV4030A: Digital Data in Political Science\nstv2022: Store tekstdata\nstv4020a: R for Methods and Statistics (STV4020A)\nstv4020b: R for Statistical Analysis (STV4020B)\nstv1020R: R for Methods and Statistics (STV1020)"
-  },
-  {
-    "objectID": "conference.html",
-    "href": "conference.html",
-    "title": "Conference Papers",
-    "section": "",
-    "text": "Søyland, Martin (2020). Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text. Tuesday seminar, University of Oslo.\nSøyland, Martin (2021). stortingscrape: An R package for accessing data from the Norwegian parliament. PODS seminar, University of Oslo.\nBjørkholt, Solveig and Martin Søyland (2022). Party Conflict and Coalition Control in Parliament. PODS workshop, University of Oslo."
-  },
-  {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data",
-    "section": "",
-    "text": "Replication Data for: Electoral Reform and Parliamentary Debates Annotated parliamentary speeches from the Norwegian Storting Post-war ministerial duration data for Norway"
+    "text": "stortingscrape: Access Data from the Norwegian Parliament API NorSentLex: Sentiment Dictionaries for Norwegian noRc: Automated Roll Call Structuring from Stortinget (experimental) tonR: Read Talk of Norway Version of the CoNLL Data Format"
   },
   {
     "objectID": "index.html",
@@ -35,10 +14,31 @@
     "text": "Postdoctoral Fellow\nDepartment of Political Science\nUniversity of Oslo"
   },
   {
-    "objectID": "R.html",
-    "href": "R.html",
-    "title": "R packages",
+    "objectID": "conference.html",
+    "href": "conference.html",
+    "title": "Conference Papers",
     "section": "",
-    "text": "stortingscrape: Access Data from the Norwegian Parliament API NorSentLex: Sentiment Dictionaries for Norwegian noRc: Automated Roll Call Structuring from Stortinget (experimental) tonR: Read Talk of Norway Version of the CoNLL Data Format"
+    "text": "Søyland, Martin (2020). Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text. Tuesday seminar, University of Oslo.\nSøyland, Martin (2021). stortingscrape: An R package for accessing data from the Norwegian parliament. PODS seminar, University of Oslo.\nBjørkholt, Solveig and Martin Søyland (2022). Party Conflict and Coalition Control in Parliament. PODS workshop, University of Oslo."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Material",
+    "section": "",
+    "text": "STV4030A: Digital Data in Political Science\nstv2022: Store tekstdata\nstv4020a: R for Methods and Statistics (STV4020A)\nstv4020b: R for Statistical Analysis (STV4020B)\nstv1020R: R for Methods and Statistics (STV1020)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "2022:\n\nParty Control and Responsiveness: How MPs Use Variation in Lower-Level Institutional Design as an Electoral Responsiveness Mechanism\n\n2021:\n\nCommittee-Membership Matters, Party Loyalty Decides in The Politics of Legislative Debates (Hanna Back, Marc Debus, and Jorge M. Fernandes) (Collaboration with Bjørn Høyland)\nClimate politics in har times: How local economic shocks influence MPs attention to climate change (Collaboration with Henning Finseraas and Bjørn Høyland)\n\n2019:\n\nIs all PR good PR? How the content of media exposure affects candidate popularity (Collaboration with Haakon Gjerløw and Peter Egge Langsæther)\nElectoral Reform and Parliamentary Debates (Collaboration with Bjørn Høyland)\n\n2018:\n\nThe Talk of Norway: a richly annotated corpus of the Norwegian parliament, 1998–2016. (Collaboration with Emanuele Lapponi, Erik Velldal, and Stephan Oepen)\n\n2017:\n\nSurvival of the Ministers: On Ministerial Durability in Postwar Norway (2017)\n\n2015:\n\nTilbakeholden og ekspansiv liberalisme: - Om utenrikspolitikk i State of the Union-taler (2015)\n\nCollaborating authors:"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Replication Data for: Electoral Reform and Parliamentary Debates\nAnnotated parliamentary speeches from the Norwegian Storting\nPost-war ministerial duration data for Norway"
   }
 ]
