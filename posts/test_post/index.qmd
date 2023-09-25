@@ -1,0 +1,11 @@
+---
+title: "New blog!"
+description: "A site for publishing interesting stuff that in itself might not be enough for a publication or opinion piece. Will contain both Norwegian and English language."
+author: "Martin Søyland"
+date: "2023-09-25"
+categories:
+  - meta
+  - news
+---
+
+Sometimes, or most of the time, I produce stuff that might be of interest for only myself. This blog will be a wall for those things. It will probably be about a vast range of stuff, such as Norwegian politics, R code, and political events in general. Perhaps some poor soul will stumble into here and find it interesting. Enjoy!

@@ -2,7 +2,7 @@
 title: "Martin Søyland"
 ---
 
-![](http://www.sv.uio.no/isv/personer/vit/martigso/mgs(1).png){width=25%}
+![](ms.jpg){width=25%}
     
 ```{r}
 #| echo: false

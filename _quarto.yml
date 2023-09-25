@@ -15,6 +15,7 @@ website:
       - teaching.qmd
       - data.qmd
       - R.qmd
+      - blog.qmd
 
 format:
   html:

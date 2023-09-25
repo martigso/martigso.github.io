@@ -31,19 +31,10 @@ title: "Publications"
 
 Collaborating authors:
 
-```{r}
-#| label: scholarpics
-#| echo: false
-
-base_url <- ""
-
-```
-
-
-<!-- ![](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=fOIO08sAAAAJ&citpid=1){width=10%} -->
-<!-- ![](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=LKrqoSgAAAAJ&citpid=1){width=10%} -->
-<!-- ![](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=EnmGAG8AAAAJ&citpid=1){width=10%} -->
-<!-- ![](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=DSU-yuMAAAAJ&citpid=1){width=10%} -->
-<!-- ![](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=v2IK8CkAAAAJ&citpid=1){width=10%} -->
-<!-- ![](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=lbQyqGoAAAAJ&citpid=1){width=10%} -->
-<!-- ![](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=0lUHSdEAAAAJ&citpid=1){width=10%} -->
+<a href="https://scholar.google.no/citations?user=fOIO08sAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fOIO08sAAAAJ&citpid=1" title="Emanuele Lapponi"/></a>
+<a href="https://scholar.google.no/citations?user=LKrqoSgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LKrqoSgAAAAJ&citpid=1" title="Bjørn Høyland"/></a>
+<a href="https://scholar.google.no/citations?user=EnmGAG8AAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EnmGAG8AAAAJ&citpid=1" title="Peter Egge Langsæther"/></a>
+<a href="https://scholar.google.no/citations?user=DSU-yuMAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DSU-yuMAAAAJ&citpid=1" title="Haakon Gjerløw"/></a>
+<a href="https://scholar.google.no/citations?user=v2IK8CkAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v2IK8CkAAAAJ&citpid=1" title="Henning Finseraas"/></a>
+<a href="https://scholar.google.no/citations?user=lbQyqGoAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lbQyqGoAAAAJ&citpid=1" title="Erik Velldal"/></a>
+<a href="https://scholar.google.no/citations?user=0lUHSdEAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0lUHSdEAAAAJ&citpid=1" title="Stephan Oepen"></a>
