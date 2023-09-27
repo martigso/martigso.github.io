@@ -2,7 +2,7 @@
 title: "Martin Søyland"
 ---
 
-![](ms.jpg){width=25%}
+![](ms.jpeg){width=25%}
     
 ```{r}
 #| echo: false
