@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "posts/test_post/index.html",
-    "href": "posts/test_post/index.html",
-    "title": "New blog!",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Martin Søyland",
     "section": "",
-    "text": "Sometimes, or most of the time, I produce stuff that might be of interest for only myself. This blog will be a wall for those things. It will probably be about a vast range of stuff, such as Norwegian politics, R code, and political events in general. Perhaps some poor soul will stumble into here and find it interesting. Enjoy!"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Material",
-    "section": "",
-    "text": "STV4030A: Digital Data in Political Science\nstv2022: Store tekstdata\nstv4020a: R for Methods and Statistics (STV4020A)\nstv4020b: R for Statistical Analysis (STV4020B)\nstv1020R: R for Methods and Statistics (STV1020)"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Hvor ble det av ryggraden?\n\n\n\n\n\n\n\nnorsk politikk\n\n\nskandaler\n\n\ninstitusjoner\n\n\n\n\nLeserinnlegg i Dag og Tid\n\n\n\n\n\n\nSep 29, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\n  \n\n\n\n\nNew blog!\n\n\n\n\n\n\n\nmeta\n\n\nnews\n\n\n\n\nA site for publishing interesting stuff that in itself might not be enough for a publication or opinion piece. Will contain both Norwegian and English language.\n\n\n\n\n\n\nSep 25, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data",
-    "section": "",
-    "text": "Replication Data for: Electoral Reform and Parliamentary Debates\nAnnotated parliamentary speeches from the Norwegian Storting\nPost-war ministerial duration data for Norway"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "2023:\n\nTilstandsanalyse av det norske demokratiet (Government white paper)\n\n2022:\n\nParty Control and Responsiveness: How MPs Use Variation in Lower-Level Institutional Design as an Electoral Responsiveness Mechanism\n\n2021:\n\nCommittee-Membership Matters, Party Loyalty Decides in The Politics of Legislative Debates (Hanna Back, Marc Debus, and Jorge M. Fernandes) (Collaboration with Bjørn Høyland)\nClimate politics in har times: How local economic shocks influence MPs attention to climate change (Collaboration with Henning Finseraas and Bjørn Høyland)\n\n2019:\n\nIs all PR good PR? How the content of media exposure affects candidate popularity (Collaboration with Haakon Gjerløw and Peter Egge Langsæther)\nElectoral Reform and Parliamentary Debates (Collaboration with Bjørn Høyland)\n\n2018:\n\nThe Talk of Norway: a richly annotated corpus of the Norwegian parliament, 1998–2016. (Collaboration with Emanuele Lapponi, Erik Velldal, and Stephan Oepen)\n\n2017:\n\nSurvival of the Ministers: On Ministerial Durability in Postwar Norway (2017)\n\n2015:\n\nTilbakeholden og ekspansiv liberalisme: - Om utenrikspolitikk i State of the Union-taler (2015)\n\nCollaborating authors:"
+    "text": "🎓 Postdoctoral Fellow\n🏬 Department of Political Science\n🏙 University of Oslo"
   },
   {
     "objectID": "R.html",
@@ -42,6 +14,27 @@
     "text": "stortingscrape: Access Data from the Norwegian Parliament API  NorSentLex: Sentiment Dictionaries for Norwegian noRc: Automated Roll Call Structuring from Stortinget (experimental) tonR: Read Talk of Norway Version of the CoNLL Data Format"
   },
   {
+    "objectID": "posts/dag_og_tid20230929/index.html",
+    "href": "posts/dag_og_tid20230929/index.html",
+    "title": "Hvor ble det av ryggraden?",
+    "section": "",
+    "text": "Saken om aksjehandelen til Sindre Finnes kommer ikke i et vakuum; det kommer i en lang rekke saker hvor nasjonale og lokale politikere i Norge systematisk har misbrukt den høye tilliten i befolkningen. Det er på tide å ta demokratiet på alvor og sette opp mer robuste institusjoner og regler for nasjonale og lokale politikere.\nResten av artikkelen finner du her!"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Replication Data for: Electoral Reform and Parliamentary Debates\nAnnotated parliamentary speeches from the Norwegian Storting\nPost-war ministerial duration data for Norway"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Material",
+    "section": "",
+    "text": "STV4030A: Digital Data in Political Science\nstv2022: Store tekstdata\nstv4020a: R for Methods and Statistics (STV4020A)\nstv4020b: R for Statistical Analysis (STV4020B)\nstv1020R: R for Methods and Statistics (STV1020)"
+  },
+  {
     "objectID": "conference.html",
     "href": "conference.html",
     "title": "Conference Papers",
@@ -49,17 +42,24 @@
     "text": "Søyland, Martin (2023). stortingscrape: An R package for accessing data from the Norwegian parliament. Tuesday seminar, University of Oslo.\nBjørkholt, Solveig and Martin Søyland (2022). Party Conflict and Coalition Control in Parliament. PODS workshop, University of Oslo.\nSøyland, Martin (2020). Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text. Tuesday seminar, University of Oslo.\nDjuve, Vilde L. and Martin Søyland (2023). Birds of a Feather Flock Together: On Entity Networks in the UN General Assembly. CIR workshop TBD, University of Oslo.\n\nCollaborating authors:"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Martin Søyland",
+    "objectID": "posts/test_post/index.html",
+    "href": "posts/test_post/index.html",
+    "title": "New blog!",
     "section": "",
-    "text": "Postdoctoral Fellow\nDepartment of Political Science\nUniversity of Oslo"
+    "text": "Sometimes, or most of the time, I produce stuff that might be of interest for only myself. This blog will be a wall for those things. It will probably be about a vast range of stuff, such as Norwegian politics, R code, and political events in general. Perhaps some poor soul will stumble into here and find it interesting. Enjoy!"
   },
   {
-    "objectID": "posts/dag_og_tid20230929/index.html",
-    "href": "posts/dag_og_tid20230929/index.html",
-    "title": "Hvor ble det av ryggraden?",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Saken om aksjehandelen til Sindre Finnes kommer ikke i et vakuum; det kommer i en lang rekke saker hvor nasjonale og lokale politikere i Norge systematisk har misbrukt den høye tilliten i befolkningen. Det er på tide å ta demokratiet på alvor og sette opp mer robuste institusjoner og regler for nasjonale og lokale politikere.\nResten av artikkelen finner du her!"
+    "text": "Hvor ble det av ryggraden?\n\n\n\n\n\n\n\nnorsk politikk\n\n\nskandaler\n\n\ninstitusjoner\n\n\n\n\nLeserinnlegg i Dag og Tid\n\n\n\n\n\n\nSep 29, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\n  \n\n\n\n\nNew blog!\n\n\n\n\n\n\n\nmeta\n\n\nnews\n\n\n\n\nA site for publishing interesting stuff that in itself might not be enough for a publication or opinion piece. Will contain both Norwegian and English language.\n\n\n\n\n\n\nSep 25, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "2023:\n\nTilstandsanalyse av det norske demokratiet (Government white paper)\n\n2022:\n\nParty Control and Responsiveness: How MPs Use Variation in Lower-Level Institutional Design as an Electoral Responsiveness Mechanism\n\n2021:\n\nCommittee-Membership Matters, Party Loyalty Decides in The Politics of Legislative Debates (Hanna Back, Marc Debus, and Jorge M. Fernandes) (Collaboration with Bjørn Høyland)\nClimate politics in har times: How local economic shocks influence MPs attention to climate change (Collaboration with Henning Finseraas and Bjørn Høyland)\n\n2019:\n\nIs all PR good PR? How the content of media exposure affects candidate popularity (Collaboration with Haakon Gjerløw and Peter Egge Langsæther)\nElectoral Reform and Parliamentary Debates (Collaboration with Bjørn Høyland)\n\n2018:\n\nThe Talk of Norway: a richly annotated corpus of the Norwegian parliament, 1998–2016. (Collaboration with Emanuele Lapponi, Erik Velldal, and Stephan Oepen)\n\n2017:\n\nSurvival of the Ministers: On Ministerial Durability in Postwar Norway (2017)\n\n2015:\n\nTilbakeholden og ekspansiv liberalisme: - Om utenrikspolitikk i State of the Union-taler (2015)\n\nCollaborating authors:"
   }
 ]

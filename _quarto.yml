@@ -3,20 +3,56 @@ project:
   output-dir: docs
 
 website:
-  title: |
-    Martin Søyland
   favicon: favicon.ico
-  page-navigation: true
-  navbar: 
-    search: true
-    left:
-      - publications.qmd
-      - conference.qmd
-      - teaching.qmd
-      - data.qmd
-      - R.qmd
-      - blog.qmd
+  page-navigation: false
+  sidebar: 
+    search: false
+    contents:
+      - index.qmd
+      
+      - section: "Research"
+        contents:
+          - publications.qmd
+          - conference.qmd
+          - R.qmd
+          - data.qmd
 
+      - section: "Teaching"
+        contents:
+          - teaching.qmd
+
+      - section: "Opinions"
+        contents:
+          - blog.qmd
+    tools:
+      
+      - icon: person-workspace
+        menu:
+          - text: UiO (nor)
+            url: https://www.sv.uio.no/isv/personer/vit/martigso/
+          - text: UiO (eng)
+            url: https://www.sv.uio.no/isv/english/people/aca/martigso
+        
+      - icon: github
+        menu:
+          - text: GitHub
+            url: https://github.com/martigso
+      
+      - icon: cloud-sun-fill
+        menu:
+          - text: Bluesky
+            url: https://bsky.app/profile/martigso.bsky.social
+         
+      - icon: mastodon
+        menu:
+          - text: Mastodon
+            url: https://snabelen.no/@lufs
+        
+      - icon: linkedin
+        menu: 
+          - text: LinkedIn
+            url: https://www.linkedin.com/in/martin-søyland-7817304b
+        
 format:
   html:
     theme:

@@ -1,5 +1,5 @@
 ---
-title: "Martin Søyland"
+title: "[Martin Søyland]{.cream}"
 ---
 
 ![](ms.jpeg){width=25%}
@@ -7,11 +7,13 @@ title: "Martin Søyland"
 ```{r}
 #| echo: false
 #| eval: true
-glue::glue("{position}
-           {department}
-           {employer}",
+glue::glue("{mortar_board} {position}
+           {department_store} {department}
+           {cityscape} {employer}",
            position = "Postdoctoral Fellow",
            employer = "University of Oslo",
-           department = "Department of Political Science")
+           department = "Department of Political Science",
+           mortar_board = emo::ji("mortar_board"),
+           department_store = emo::ji("department_store"),
+           cityscape = emo::ji("cityscape"))
 ```
-

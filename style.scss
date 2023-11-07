@@ -1,5 +1,10 @@
 /*-- scss:defaults --*/
 $navbar-bg: #DFDD43;
 $navbar-fg: #000000;
+$theme-cream: #F0F1EB;
 
 /*-- scss:rules --*/
+.cream {
+    color: $theme-cream;
+    font-weight: bold;
+}
