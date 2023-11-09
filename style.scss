@@ -2,9 +2,15 @@
 $navbar-bg: #DFDD43;
 $navbar-fg: #000000;
 $theme-cream: #F0F1EB;
+$theme-neuorange: #DCB088;
 
 /*-- scss:rules --*/
 .cream {
     color: $theme-cream;
+    font-weight: bold;
+}
+
+.neuorange {
+    color: $theme-neuorange;
     font-weight: bold;
 }

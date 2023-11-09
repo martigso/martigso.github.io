@@ -1,5 +1,5 @@
 ---
-title: "[Martin Søyland]{.cream}"
+title: "[Martin Søyland]{.neuorange}"
 ---
 
 ![](ms.jpeg){width=25%}
