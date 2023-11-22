@@ -1,38 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Martin Søyland",
+    "objectID": "posts/test_post/index.html",
+    "href": "posts/test_post/index.html",
+    "title": "New blog!",
     "section": "",
-    "text": "🎓 Postdoctoral Fellow\n🏬 Department of Political Science\n🏙 University of Oslo"
-  },
-  {
-    "objectID": "R.html",
-    "href": "R.html",
-    "title": "R packages",
-    "section": "",
-    "text": "stortingscrape: Access Data from the Norwegian Parliament API  NorSentLex: Sentiment Dictionaries for Norwegian noRc: Automated Roll Call Structuring from Stortinget (experimental) tonR: Read Talk of Norway Version of the CoNLL Data Format"
-  },
-  {
-    "objectID": "posts/dag_og_tid20230929/index.html",
-    "href": "posts/dag_og_tid20230929/index.html",
-    "title": "Hvor ble det av ryggraden?",
-    "section": "",
-    "text": "Saken om aksjehandelen til Sindre Finnes kommer ikke i et vakuum; det kommer i en lang rekke saker hvor nasjonale og lokale politikere i Norge systematisk har misbrukt den høye tilliten i befolkningen. Det er på tide å ta demokratiet på alvor og sette opp mer robuste institusjoner og regler for nasjonale og lokale politikere.\nResten av artikkelen finner du her!"
+    "text": "Sometimes, or most of the time, I produce stuff that might be of interest for only myself. This blog will be a wall for those things. It will probably be about a vast range of stuff, such as Norwegian politics, R code, and political events in general. Perhaps some poor soul will stumble into here and find it interesting. Enjoy!"
   },
   {
     "objectID": "posts/jbl20210623/index.html",
     "href": "posts/jbl20210623/index.html",
     "title": "Plagsomt med demokrati i Time kommune",
     "section": "",
-    "text": "Det er med stor interesse jeg, som har vokst opp og levd over halve livet mitt på Frøyland i Time, har fulgt med på debatten om etablering av datasenter på Kalberg/Kverneland. Jeg tror denne saken er ekstremt viktig for demokratiet i Time kommune; et demokrati som har ligget i dvale over flere tiår. Saken setter lys på viktige demokratiske prinsipper, som transparente prosesser, hvordan politikere skal forholde seg til informasjon fra fagpersoner og hva det egentlig innebærer å lytte til en befolkning.\nProsessen. Hvis befolkningen skal vise tillitt til politikere, må saksgang være transparent. Det er også lovpålagt (offentlighetsloven) å ha transparens i demokratiske institusjoner. I saken om datasenteretablering på Kalberg/Kverneland er saksgangen til tider et mysterium. Hvordan kan ingen i kommunestyre ha visst om planene før valget 2019 (ref Andreas Vollsund i møtet på Brekkenuten 10.06.2021), når Aftenposten visste det allerede mars 2018? Hvorfor hadde kommunen ingen dokumentasjon på saken da MASIV reiste rundt til grunneiere med opsjonsavtaler i slutten av 2019? Hvor var kommunens initiativ til å opplyse befolkningen om et prosjekt av dette kaliberet i en tidlig fase? Det har dukket opp mange spørsmål som dette hos flere av de berørte i saken over hele prosessen.\nSå, når Kjell Olav Stangeland klager seg over at “konspirasjonsteorier” har dukket opp, kan han gjerne se seg selv i speilet og spørre om han har prøvd å vende steiner i prosessen? Har han forsikret seg om at administrasjonen har fulgt de reglene de skal? Har han spurt seg hvilke aktører og interesser som har makt og innflytelse? Hvor sikker er han på at dette er den rette løsningen for innbyggerne på Kalberg, Kvernaland og Frøyland? Ingen andre enn kommunestyret og administrasjonen i Time vet svaret på disse spørsmålene, fordi hver gang noen spør blir de møtt med svar som kritiserer at det blir spurt om i utgangspunktet — at det er et angrep mot den enkeltes integritet. Det kan ikke kalles en konspirasjonsteori før dere er åpne om prosessen fra start til slutt. Jeg hadde heller ikke blitt veldig overrasket om en grundig, uavhengig, revisjon hadde funnet brudd på god saksgang i denne saken.\nKunnskap.\nDet var også forbausende å se kommunestyremøtet 15.06.2021 og forholdet man har til uttalelser fra fagfolk. Igjen glimter Kjell Olav Stangeland til. På tross av diverse konsekvensutredninger og uttalelser fra fagfolk, hvor det kommer frem at konsekvensene for natur og biomangfold er ganske store og kritiske — for eksempel for den ikoniske vipa — mener Stangeland at utbyggingen ikke vil ha så store konsekvenser for vipebestanden på Jæren. Dette har Stangeland ingen belegg for å mene. Da har jeg mer sansen for å stå for det man mener, som Andreas Vollsund gjorde ved folkemøtet på Brekkenuten da han sa at han er villig til å ofre natur, biomangfold og turområder for de potensielle arbeidsplassene planene vil generere. Jeg er dypt uenig i verdiene Vollsund fremmer, men jeg har respekt for at han tårer å si akkurat dette.\nMen Vollsund synder dessverre også i å behandle kunnskap på en verdig måte når han på Dagsrevyen sier: “[…] her kan vi skape flere tusen arbeidsplasser, eller hvertfall tusen. Det er det jeg alltid har sagt.” Også her er både konsekvensutredning og fagpersoner veldig tydelige på at arbeidsplasstallene er veldig usikre av flere grunner. Kort sagt, er det vanskelig å fastsette gode tall på hvor mange arbeidsplass planene vil generere både fordi “spillover”-effektene av prosjektet er vanskelig å forutse, og fordi de eneste dataene vi har på arbeidsplasser, er produsert av aktører som har store egeninteresser i å få utbyggingen gjennom. Det eneste vi vet med sikkerhet, er at arbeidsplassene som er generert ved liknende prosjekter er vesentlig lavere enn det politikerne i Time kommune har blitt forespeilet. Uttalelsen til ordføreren er i beste fall et misvisende bilde på hvor sikre disse tallene er. I verste fall er de misledende med overlegg.\nÅ bli hørt. Et stort tema på det nevnte folkemøtet på Brekkenuten var det filosofiske spørsmålet “hva betyr det å bli hørt?” Her er det også totalt mageplask fra politikerne i Time kommune. Flere mener at de “har hørt på hva motstanderne av planene sier, men at er ikke enig — og det må være lov”. Det er selvfølgelig lov å være uenig. Men sett i kontekst av fraværende vilje til å ta inn over seg argumentene fra fagpersoner og utredninger, samtidig som man vekter usikre tall alt for høyt og møter de fleste motargumenter med versjoner av “men alle arbeidsplassene da?”, er det fristende å si at det disse politikerene karakteriserer som å høre etter, egentlig er å la informasjon gå inn det ene øret og ut det andre. Det er forskjell på å høre og “hørra itte”.\nPolitikere og administrasjon i Time kommune har latt seg forføre av store planene om datasenter på Kalberg/Kverneland. Prosessen har vært så lukket som overhodet mulig, helt til presset fra privatpersoner har krevd mer åpenhet. De negative konsekvensene er ikke like viktige som arbeidsplasser. Ikke denne gang. Ikke forrige gang. Og sannsynligvis ikke neste gang. Slik rives landbruk, biomangfold, turområder, natur og gode vennskap fra hverandre på Jæren — bit for bit.\nOg nei, Andreas Vollsund, jeg er ikke engasjert av Vern Kvernaland til å skrive dette. Det engasjementet har du og dine kollegaer gitt meg helt på egenhånd."
-  },
-  {
-    "objectID": "conference.html",
-    "href": "conference.html",
-    "title": "Conference Papers",
-    "section": "",
-    "text": "Søyland, Martin (2023). stortingscrape: An R package for accessing data from the Norwegian parliament. Tuesday seminar, University of Oslo.\nBjørkholt, Solveig and Martin Søyland (2022). Party Conflict and Coalition Control in Parliament. PODS workshop, University of Oslo.\nSøyland, Martin (2020). Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text. Tuesday seminar, University of Oslo.\nDjuve, Vilde L. and Martin Søyland (2023). Birds of a Feather Flock Together: On Entity Networks in the UN General Assembly. CIR workshop TBD, University of Oslo.\n\nCollaborating authors:"
+    "text": "Det er med stor interesse jeg, som har vokst opp og levd over halve livet mitt på Frøyland i Time, har fulgt med på debatten om etablering av datasenter på Kalberg/Kverneland. Jeg tror denne saken er ekstremt viktig for demokratiet i Time kommune; et demokrati som har ligget i dvale over flere tiår. Saken setter lys på viktige demokratiske prinsipper, som transparente prosesser, hvordan politikere skal forholde seg til informasjon fra fagpersoner og hva det egentlig innebærer å lytte til en befolkning.\nResten kan du lese her"
   },
   {
     "objectID": "teaching.html",
@@ -42,6 +21,13 @@
     "text": "STV4030A: Digital Data in Political Science\nstv2022: Store tekstdata\nstv4020a: R for Methods and Statistics (STV4020A)\nstv4020b: R for Statistical Analysis (STV4020B)\nstv1020R: R for Methods and Statistics (STV1020)"
   },
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Freista og forført\n\n\n\n\n\n\n\nlokal politikk\n\n\ndatasenter\n\n\nmatjord\n\n\n\n\nLeserinnlegg i Stavanger Aftenblad\n\n\n\n\n\n\nNov 10, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\n  \n\n\n\n\nHvor ble det av ryggraden?\n\n\n\n\n\n\n\nnorsk politikk\n\n\nskandaler\n\n\ninstitusjoner\n\n\n\n\nLeserinnlegg i Dag og Tid\n\n\n\n\n\n\nSep 29, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\n  \n\n\n\n\nNew blog!\n\n\n\n\n\n\n\nmeta\n\n\nnews\n\n\n\n\nA site for publishing interesting stuff that in itself might not be enough for a publication or opinion piece. Will contain both Norwegian and English language.\n\n\n\n\n\n\nSep 25, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\n  \n\n\n\n\nPlagsomt med demokrati i Time kommune\n\n\n\n\n\n\n\nnorsk politikk\n\n\ndemokrati\n\n\nlokal politikk\n\n\n\n\nLeserinnlegg i Jærbladet\n\n\n\n\n\n\nJun 21, 2021\n\n\nMartin Søyland\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "data.html",
     "href": "data.html",
     "title": "Data",
@@ -49,24 +35,45 @@
     "text": "Replication Data for: Electoral Reform and Parliamentary Debates\nAnnotated parliamentary speeches from the Norwegian Storting\nPost-war ministerial duration data for Norway"
   },
   {
-    "objectID": "posts/test_post/index.html",
-    "href": "posts/test_post/index.html",
-    "title": "New blog!",
-    "section": "",
-    "text": "Sometimes, or most of the time, I produce stuff that might be of interest for only myself. This blog will be a wall for those things. It will probably be about a vast range of stuff, such as Norwegian politics, R code, and political events in general. Perhaps some poor soul will stumble into here and find it interesting. Enjoy!"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Hvor ble det av ryggraden?\n\n\n\n\n\n\n\nnorsk politikk\n\n\nskandaler\n\n\ninstitusjoner\n\n\n\n\nLeserinnlegg i Dag og Tid\n\n\n\n\n\n\nSep 29, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\n  \n\n\n\n\nNew blog!\n\n\n\n\n\n\n\nmeta\n\n\nnews\n\n\n\n\nA site for publishing interesting stuff that in itself might not be enough for a publication or opinion piece. Will contain both Norwegian and English language.\n\n\n\n\n\n\nSep 25, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\n  \n\n\n\n\nPlagsomt med demokrati i Time kommune\n\n\n\n\n\n\n\nnorsk politikk\n\n\ndemokrati\n\n\nlokal politikk\n\n\n\n\nLeserinnlegg i Jærbladet\n\n\n\n\n\n\nJun 21, 2021\n\n\nMartin Søyland\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
     "text": "2023:\n\nTilstandsanalyse av det norske demokratiet (Government white paper)\n\n2022:\n\nParty Control and Responsiveness: How MPs Use Variation in Lower-Level Institutional Design as an Electoral Responsiveness Mechanism\n\n2021:\n\nCommittee-Membership Matters, Party Loyalty Decides in The Politics of Legislative Debates (Hanna Back, Marc Debus, and Jorge M. Fernandes) (Collaboration with Bjørn Høyland)\nClimate politics in har times: How local economic shocks influence MPs attention to climate change (Collaboration with Henning Finseraas and Bjørn Høyland)\n\n2019:\n\nIs all PR good PR? How the content of media exposure affects candidate popularity (Collaboration with Haakon Gjerløw and Peter Egge Langsæther)\nElectoral Reform and Parliamentary Debates (Collaboration with Bjørn Høyland)\n\n2018:\n\nThe Talk of Norway: a richly annotated corpus of the Norwegian parliament, 1998–2016. (Collaboration with Emanuele Lapponi, Erik Velldal, and Stephan Oepen)\n\n2017:\n\nSurvival of the Ministers: On Ministerial Durability in Postwar Norway (2017)\n\n2015:\n\nTilbakeholden og ekspansiv liberalisme: - Om utenrikspolitikk i State of the Union-taler (2015)\n\nCollaborating authors:"
+  },
+  {
+    "objectID": "R.html",
+    "href": "R.html",
+    "title": "R packages",
+    "section": "",
+    "text": "stortingscrape: Access Data from the Norwegian Parliament API  NorSentLex: Sentiment Dictionaries for Norwegian noRc: Automated Roll Call Structuring from Stortinget (experimental) tonR: Read Talk of Norway Version of the CoNLL Data Format"
+  },
+  {
+    "objectID": "conference.html",
+    "href": "conference.html",
+    "title": "Conference Papers",
+    "section": "",
+    "text": "Søyland, Martin (2023). stortingscrape: An R package for accessing data from the Norwegian parliament. Tuesday seminar, University of Oslo.\nBjørkholt, Solveig and Martin Søyland (2022). Party Conflict and Coalition Control in Parliament. PODS workshop, University of Oslo.\nSøyland, Martin (2020). Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text. Tuesday seminar, University of Oslo.\nDjuve, Vilde L. and Martin Søyland (2023). Birds of a Feather Flock Together: On Entity Networks in the UN General Assembly. CIR workshop TBD, University of Oslo.\n\nCollaborating authors:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Martin Søyland",
+    "section": "",
+    "text": "🎓 Postdoctoral Fellow\n🏬 Department of Political Science\n🏙 University of Oslo"
+  },
+  {
+    "objectID": "posts/dag_og_tid20230929/index.html",
+    "href": "posts/dag_og_tid20230929/index.html",
+    "title": "Hvor ble det av ryggraden?",
+    "section": "",
+    "text": "Saken om aksjehandelen til Sindre Finnes kommer ikke i et vakuum; det kommer i en lang rekke saker hvor nasjonale og lokale politikere i Norge systematisk har misbrukt den høye tilliten i befolkningen. Det er på tide å ta demokratiet på alvor og sette opp mer robuste institusjoner og regler for nasjonale og lokale politikere.\nResten av artikkelen finner du her!"
+  },
+  {
+    "objectID": "posts/sa20231110/index.html",
+    "href": "posts/sa20231110/index.html",
+    "title": "Freista og forført",
+    "section": "",
+    "text": "Han stod der, glatt hud og kvite tenner. Hestehale og briller. Han skulle selja leksikon. Han klarte smi seg inn i stova med sølvtunge og sjarm. Ikkje daglegstova, sjølvsagt, der er det jo støv. Han fekk ta ein kopp kaffi i bestestova. Eg veit ikkje kva som hende, den dagen på tidleg 2000-talet, då me ende opp med leksikon sjølv om wikipedia hadde kome til ein gard på Jæren for mange år sidan. Me vart vel freista og forført.\nResten kan du lesa her"
   }
 ]
