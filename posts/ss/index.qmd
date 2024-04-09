@@ -1,5 +1,5 @@
 ---
-title: "Tur"
+title: "Person eller parti?"
 author: "Martin Søyland"
 date: "2024-04-09"
 categories:
