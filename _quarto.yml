@@ -3,10 +3,15 @@ project:
   output-dir: docs
 
 website:
+  title: "Homepage"
+  site-url: https://martigso.github.io/
   favicon: favicon.ico
   page-navigation: false
+  
   sidebar: 
+    style: floating
     search: false
+    
     contents:
       - index.qmd
       
@@ -24,6 +29,7 @@ website:
       - section: "Opinions"
         contents:
           - blog.qmd
+    
     tools:
       
       - icon: person-workspace
