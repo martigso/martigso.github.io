@@ -2,6 +2,16 @@
 title: "Conference Papers"
 ---
 
+<style>
+  .circle-img {
+    border-radius: 70%;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+  }
+</style>
+
+
 - Søyland, Martin (2023). [stortingscrape: An R package for accessing data from the Norwegian parliament](/papers/stortingscrape20231012.pdf). Tuesday seminar, University of Oslo.<br><br>
 - Bjørkholt, Solveig and Martin Søyland (2022). [Party Conflict and Coalition Control in Parliament](/papers/question_sentiment_epsa23.pdf). PODS workshop, University of Oslo.<br><br>
 - Søyland, Martin (2020). [Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text](/papers/classification_tuesdaysem2020.pdf). Tuesday seminar, University of Oslo.<br><br>
@@ -12,6 +22,6 @@ title: "Conference Papers"
 Collaborating authors:
 
 
-<a href="https://scholar.google.no/citations?user=DBeFxDgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DBeFxDgAAAAJ&citpid=1" title="Vilde L. Djuve"/></a>
-<a href="https://scholar.google.no/citations?user=CntWUTIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=CntWUTIAAAAJ&citpid=1" title="Solveig Bjørkholt"/></a>
-<a href="https://scholar.google.no/citations?user=RcGOoboAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RcGOoboAAAAJ&citpid=1" title="Maiken Røed"/></a>
+<a href="https://scholar.google.no/citations?user=DBeFxDgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DBeFxDgAAAAJ&citpid=1" title="Vilde L. Djuve" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=CntWUTIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=CntWUTIAAAAJ&citpid=1" title="Solveig Bjørkholt" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=RcGOoboAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RcGOoboAAAAJ&citpid=1" title="Maiken Røed" class="circle-img"/></a>

@@ -2,6 +2,15 @@
 title: "Publications"
 ---
 
+<style>
+  .circle-img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+  }
+</style>
+
 2023:
 
 - [Tilstandsanalyse av det norske demokratiet (Government white paper)](https://www.regjeringen.no/no/dokumenter/tilstandsanalyse-av-det-norske-demokratiet/id2991191/)
@@ -35,15 +44,15 @@ title: "Publications"
 
 Collaborating authors:
 
-<a href="https://scholar.google.no/citations?user=LKrqoSgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LKrqoSgAAAAJ&citpid=1" title="Bjørn Høyland"/></a>
-<a href="https://scholar.google.no/citations?user=fOIO08sAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fOIO08sAAAAJ&citpid=1" title="Emanuele Lapponi"/></a>
-<a href="https://scholar.google.no/citations?user=EnmGAG8AAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EnmGAG8AAAAJ&citpid=1" title="Peter Egge Langsæther"/></a>
-<a href="https://scholar.google.no/citations?user=DSU-yuMAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DSU-yuMAAAAJ&citpid=1" title="Haakon Gjerløw"/></a>
-<a href="https://scholar.google.no/citations?user=mE1cBuIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mE1cBuIAAAAJ&citpid=1" title="Elin Haugsgjerd Allern"/></a>
-<a href="https://scholar.google.no/citations?user=P1EAQzIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P1EAQzIAAAAJ&citpid=1" title="Sirianne Dahlum"/></a>
-<a href="https://scholar.google.no/citations?user=tYXnTAgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tYXnTAgAAAAJ&citpid=1" title="Carl Henrik Knutsen"/></a>
-<a href="https://scholar.google.no/citations?user=v2IK8CkAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v2IK8CkAAAAJ&citpid=1" title="Henning Finseraas"/></a>
-<a href="https://scholar.google.no/citations?user=lbQyqGoAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lbQyqGoAAAAJ&citpid=1" title="Erik Velldal"/></a>
-<a href="https://scholar.google.no/citations?user=0lUHSdEAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0lUHSdEAAAAJ&citpid=1" title="Stephan Oepen"></a>
-<a href="https://scholar.google.no/citations?user=-VZ9_fAAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-VZ9_fAAAAAJ&citpid=1" title="Tore Wig"/></a>
-<a href="https://scholar.google.no/citations?user=yWLpB2YAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yWLpB2YAAAAJ&citpid=1" title="Jan Erling Klausen"/></a>
+<a href="https://scholar.google.no/citations?user=LKrqoSgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LKrqoSgAAAAJ&citpid=1" title="Bjørn Høyland" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=fOIO08sAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fOIO08sAAAAJ&citpid=1" title="Emanuele Lapponi" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=EnmGAG8AAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EnmGAG8AAAAJ&citpid=1" title="Peter Egge Langsæther" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=DSU-yuMAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DSU-yuMAAAAJ&citpid=1" title="Haakon Gjerløw" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=mE1cBuIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mE1cBuIAAAAJ&citpid=1" title="Elin Haugsgjerd Allern" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=P1EAQzIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P1EAQzIAAAAJ&citpid=1" title="Sirianne Dahlum" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=tYXnTAgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tYXnTAgAAAAJ&citpid=1" title="Carl Henrik Knutsen" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=v2IK8CkAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v2IK8CkAAAAJ&citpid=1" title="Henning Finseraas" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=lbQyqGoAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lbQyqGoAAAAJ&citpid=1" title="Erik Velldal" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=0lUHSdEAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0lUHSdEAAAAJ&citpid=1" title="Stephan Oepen" class="circle-img"></a>
+<a href="https://scholar.google.no/citations?user=-VZ9_fAAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-VZ9_fAAAAAJ&citpid=1" title="Tore Wig" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=yWLpB2YAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yWLpB2YAAAAJ&citpid=1" title="Jan Erling Klausen" class="circle-img"/></a>
