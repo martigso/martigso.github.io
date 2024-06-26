@@ -9,14 +9,20 @@ title: "[Martin Søyland]{.neuorange}"
 #| eval: true
 glue::glue("{mortar_board} {position}
            {department_store} {department}
-           {cityscape} {employer}",
+           {cityscape} {employer}
+           {email} {emaillink}",
            position = "Postdoctoral Fellow",
            employer = "University of Oslo",
            department = "Department of Political Science",
            mortar_board = emo::ji("mortar_board"),
            department_store = emo::ji("department_store"),
-           cityscape = emo::ji("cityscape"))
+           cityscape = emo::ji("cityscape"),
+           email = emo::ji("email"),
+           emaillink = "martin.soyland@stv.uio.no")
 ```
+
+
+
 
 # Latest publications
 ```{r}

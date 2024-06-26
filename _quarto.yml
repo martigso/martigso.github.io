@@ -61,6 +61,7 @@ website:
         
 format:
   html:
+    email-obfuscation: javascript
     theme:
       dark: [darkly, style.scss]
       light: [flatly, style.scss]
