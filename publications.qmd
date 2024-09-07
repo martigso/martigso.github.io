@@ -13,7 +13,7 @@ title: "Publications"
 
 2024:
 
-- The Drama is in the Ink: Conflict in Written Parliamentary Questions. Forthcoming in *Legislative Studies Quarterly*. (Co-authored with Solveig Bjørkholt)
+- [The Drama is in the Ink: Conflict in Written Parliamentary Questions](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12474). (Co-authored with Solveig Bjørkholt)
 - Legislative Party Cohesion and Discipline. Forthcoming in *Oxford Handbook of Norwegian Politics*. (Co-authored with Oda Nedregård)
 
 2023:
@@ -49,17 +49,17 @@ title: "Publications"
 
 Co-authors:
 
-<a href="https://scholar.google.no/citations?user=LKrqoSgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LKrqoSgAAAAJ&citpid=1" title="Bjørn Høyland" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=fOIO08sAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fOIO08sAAAAJ&citpid=1" title="Emanuele Lapponi" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=EnmGAG8AAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EnmGAG8AAAAJ&citpid=1" title="Peter Egge Langsæther" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=DSU-yuMAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DSU-yuMAAAAJ&citpid=1" title="Haakon Gjerløw" class="circle-img"/></a>
 <a href="https://scholar.google.no/citations?user=mE1cBuIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mE1cBuIAAAAJ&citpid=1" title="Elin Haugsgjerd Allern" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=P1EAQzIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P1EAQzIAAAAJ&citpid=1" title="Sirianne Dahlum" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=tYXnTAgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tYXnTAgAAAAJ&citpid=1" title="Carl Henrik Knutsen" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=v2IK8CkAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v2IK8CkAAAAJ&citpid=1" title="Henning Finseraas" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=lbQyqGoAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lbQyqGoAAAAJ&citpid=1" title="Erik Velldal" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=0lUHSdEAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0lUHSdEAAAAJ&citpid=1" title="Stephan Oepen" class="circle-img"></a>
-<a href="https://scholar.google.no/citations?user=-VZ9_fAAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-VZ9_fAAAAAJ&citpid=1" title="Tore Wig" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=yWLpB2YAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yWLpB2YAAAAJ&citpid=1" title="Jan Erling Klausen" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=7HrD6BgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7HrD6BgAAAAJ&citpid=1" title="Oda Nedregård" class="circle-img"/></a>
 <a href="https://scholar.google.no/citations?user=CntWUTIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=CntWUTIAAAAJ&citpid=1" title="Solveig Bjørkholt" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=P1EAQzIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P1EAQzIAAAAJ&citpid=1" title="Sirianne Dahlum" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=v2IK8CkAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v2IK8CkAAAAJ&citpid=1" title="Henning Finseraas" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=DSU-yuMAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DSU-yuMAAAAJ&citpid=1" title="Haakon Gjerløw" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=LKrqoSgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LKrqoSgAAAAJ&citpid=1" title="Bjørn Høyland" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=yWLpB2YAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yWLpB2YAAAAJ&citpid=1" title="Jan Erling Klausen" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=tYXnTAgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tYXnTAgAAAAJ&citpid=1" title="Carl Henrik Knutsen" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=EnmGAG8AAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EnmGAG8AAAAJ&citpid=1" title="Peter Egge Langsæther" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=fOIO08sAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fOIO08sAAAAJ&citpid=1" title="Emanuele Lapponi" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=7HrD6BgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7HrD6BgAAAAJ&citpid=1" title="Oda Nedregård" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=0lUHSdEAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0lUHSdEAAAAJ&citpid=1" title="Stephan Oepen" class="circle-img"></a>
+<a href="https://scholar.google.no/citations?user=lbQyqGoAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lbQyqGoAAAAJ&citpid=1" title="Erik Velldal" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=-VZ9_fAAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-VZ9_fAAAAAJ&citpid=1" title="Tore Wig" class="circle-img"/></a>

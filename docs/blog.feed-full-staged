@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Homepage</title>
+<link>https://martigso.github.io/blog.html</link>
+<atom:link href="https://martigso.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.5.56</generator>
+<lastBuildDate>Mon, 08 Apr 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/posts/ss/index.html}</title>
+  <dc:creator>Martin Søyland</dc:creator>
+  <link>https://martigso.github.io/posts/ss/</link>
+  <description>{B4F502887207:/posts/ss/index.html}</description>
+  <category>valgordning</category>
+  <category>personstemmer</category>
+  <category>norsk politikk</category>
+  <guid>https://martigso.github.io/posts/ss/</guid>
+  <pubDate>Mon, 08 Apr 2024 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/tur/index.html}</title>
+  <dc:creator>Martin Søyland</dc:creator>
+  <link>https://martigso.github.io/posts/tur/</link>
+  <description>{B4F502887207:/posts/tur/index.html}</description>
+  <category>lokalpolitikk</category>
+  <category>time kommune</category>
+  <category>norsk politikk</category>
+  <guid>https://martigso.github.io/posts/tur/</guid>
+  <pubDate>Thu, 30 Nov 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/sa20231110/index.html}</title>
+  <dc:creator>Martin Søyland</dc:creator>
+  <link>https://martigso.github.io/posts/sa20231110/</link>
+  <description>{B4F502887207:/posts/sa20231110/index.html}</description>
+  <category>lokal politikk</category>
+  <category>datasenter</category>
+  <category>matjord</category>
+  <guid>https://martigso.github.io/posts/sa20231110/</guid>
+  <pubDate>Thu, 09 Nov 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/dag_og_tid20230929/index.html}</title>
+  <dc:creator>Martin Søyland</dc:creator>
+  <link>https://martigso.github.io/posts/dag_og_tid20230929/</link>
+  <description>{B4F502887207:/posts/dag_og_tid20230929/index.html}</description>
+  <category>norsk politikk</category>
+  <category>skandaler</category>
+  <category>institusjoner</category>
+  <guid>https://martigso.github.io/posts/dag_og_tid20230929/</guid>
+  <pubDate>Thu, 28 Sep 2023 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/test_post/index.html}</title>
+  <dc:creator>Martin Søyland</dc:creator>
+  <link>https://martigso.github.io/posts/test_post/</link>
+  <description>{B4F502887207:/posts/test_post/index.html}</description>
+  <category>meta</category>
+  <category>news</category>
+  <guid>https://martigso.github.io/posts/test_post/</guid>
+  <pubDate>Sun, 24 Sep 2023 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/jbl20210623/index.html}</title>
+  <dc:creator>Martin Søyland</dc:creator>
+  <link>https://martigso.github.io/posts/jbl20210623/</link>
+  <description>{B4F502887207:/posts/jbl20210623/index.html}</description>
+  <category>norsk politikk</category>
+  <category>demokrati</category>
+  <category>lokal politikk</category>
+  <guid>https://martigso.github.io/posts/jbl20210623/</guid>
+  <pubDate>Sun, 20 Jun 2021 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
