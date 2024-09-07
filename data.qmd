@@ -2,6 +2,7 @@
 title: "Data"
 ---
 
+- [Replication Data for: The Drama is in the Ink](https://doi.org/10.7910/DVN/9YKMJQ)<br><br>
 - [Replication Data for: Electoral Reform and Parliamentary Debates](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QYB7PK)<br><br>
 - [Annotated parliamentary speeches from the Norwegian Storting](https://github.com/ltgoslo/talk-of-norway)<br><br>
 - [Post-war ministerial duration data for Norway](https://github.com/martigso/ministersNor)
