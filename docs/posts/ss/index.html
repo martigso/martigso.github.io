@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Martin Søyland">
+<meta name="dcterms.date" content="2024-04-09">
 
-<title>Blog – Homepage</title>
+<title>Person eller parti? – Homepage</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +25,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./favicon.ico" rel="icon">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -71,67 +71,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="alternate" type="application/rss+xml" title="Homepage" href="blog.xml" data-external="1"></head>
+</head>
 
 <body class="nav-sidebar floating">
 
@@ -142,7 +84,9 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./blog.html">Opinions</a></li><li class="breadcrumb-item"><a href="./blog.html">Blog</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">
+      Homepage
+      </li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -154,7 +98,7 @@ window.Quarto = {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Homepage</a> 
+      <a href="../../">Homepage</a> 
         <div class="sidebar-tools-main tools-wide">
     <div class="dropdown">
       <a href="" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" role="link" aria-label=""><i class="bi bi-person-workspace"></i></a>
@@ -219,7 +163,7 @@ window.Quarto = {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
+  <a href="../../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="neuorange">Martin Søyland</span></span></a>
   </div>
 </li>
@@ -234,25 +178,25 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./publications.html" class="sidebar-item-text sidebar-link">
+  <a href="../../publications.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Publications</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./conference.html" class="sidebar-item-text sidebar-link">
+  <a href="../../conference.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Conference Papers</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./R.html" class="sidebar-item-text sidebar-link">
+  <a href="../../R.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">R packages</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./data.html" class="sidebar-item-text sidebar-link">
+  <a href="../../data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data</span></a>
   </div>
 </li>
@@ -269,7 +213,7 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./teaching.html" class="sidebar-item-text sidebar-link">
+  <a href="../../teaching.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Teaching Material</span></a>
   </div>
 </li>
@@ -286,7 +230,7 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./blog.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../blog.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Blog</span></a>
   </div>
 </li>
@@ -297,22 +241,39 @@ window.Quarto = {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="datasenter">datasenter <span class="quarto-category-count">(1)</span></div><div class="category" data-category="demokrati">demokrati <span class="quarto-category-count">(1)</span></div><div class="category" data-category="institusjoner">institusjoner <span class="quarto-category-count">(1)</span></div><div class="category" data-category="lokal politikk">lokal politikk <span class="quarto-category-count">(2)</span></div><div class="category" data-category="lokalpolitikk">lokalpolitikk <span class="quarto-category-count">(1)</span></div><div class="category" data-category="matjord">matjord <span class="quarto-category-count">(1)</span></div><div class="category" data-category="meta">meta <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div><div class="category" data-category="norsk politikk">norsk politikk <span class="quarto-category-count">(4)</span></div><div class="category" data-category="personstemmer">personstemmer <span class="quarto-category-count">(1)</span></div><div class="category" data-category="skandaler">skandaler <span class="quarto-category-count">(1)</span></div><div class="category" data-category="time kommune">time kommune <span class="quarto-category-count">(1)</span></div><div class="category" data-category="valgordning">valgordning <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./blog.html">Opinions</a></li><li class="breadcrumb-item"><a href="./blog.html">Blog</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog</h1>
-</div>
+<h1 class="title">Person eller parti?</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">valgordning</div>
+    <div class="quarto-category">personstemmer</div>
+    <div class="quarto-category">norsk politikk</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Martin Søyland </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 9, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -322,248 +283,16 @@ window.Quarto = {
 </header>
 
 
+<p>I det nyaste tilskotet i serien <a href="https://www.vg.no/nyheter/meninger/i/P4W46p/de-intetsigendes-demokrati">“Sanna Sarromaa har ei meining”</a> kritiserast det norske valsystemet for mangel på valfridom. Me må sjå til Finland, sjølvsagt. Innlegget har rett i at det norske valsystemet gjer mykje makt til partia og at erfaring og posisjon er viktig for nominasjon innad i desse partia. Men drøftinga rundt kva dette inneber, står til stryk. La meg svara i ein liknande tone.</p>
+<p>For å ta det mest graverande først, så antydar Sarromaa at lukka lister ved val er eit eksklusjonskriterie for å vera demokrati. Det finst ikkje seriøse definisjonar av demokrati som brukar dette kriteriet. Sarromaa referer til den finske presidenten, som skal har sagt til ho at Noreg ikkje er eit demokrati. Sjølv om Stubb er statsviter, er han ikkje ein stor demokratiforskar, såvidt eg veit. Val handlar om å delegera makt. Korleis denne delegeringa tek form, varierar stort mellom valsystem. Og fleire demokrati har lukka partilister. Om me skal ta argumenta til Sarromaa på alvor, må me innføra <a href="https://snl.no/ostrakisme">potteskårdemokrati</a>.</p>
+<p>Sarromaa skriv vidare at mangel på veljarinnverknad førar til politikarar med mindre kompetanse og handlekraft. Empirien ho lenar seg på er nokre anekdotar frå Gjøvik og Lillehammer. Det er her det gjekk opp for meg kvifor me må bruka så mykje ressursar på å læra kjeldekritikk og referanseføring til studenter som kjem rett frå videregåande.</p>
+<p>Hvis me skal vera litt meir alvorlege, er det både fordelar og ulemper av opne og lukka lister i val og det er ganske mykje forskning å lena seg på. Her skil me ofte mellom partisentrerte og kandidatsentrerte valsystem, der opne og lukka lister bare er ein av fleire aspekt som trekk systemet i den eine eller andre retninga. Det er, til dømes, lettare å koordinera politikk i partisentrerte system fordi me delegerar makt til partia sine politiske platformar og partia forhandlar om politikk basert på desse. Når systemet er meir kandidatsentrert, vert det, blant anna, lettare for politikarane å representera valkrinsen sin. Óg er jo sjølvsagt meir komplekst i røynda; dette er idealtypar. Til dømes, er det mykje individuell lokal representasjon og tilpasning i forskjellige arenaer på Stortinget, på trass av det partisentrerte systemet til Noreg (<a href="https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12415">Finseraas et. al 2021</a>).</p>
+<p>I den ganske store litteraturen som forskar på effektane av valsystem på aktørane i systemet, kan me blant anna sjå til <a href="https://doi.org/10.1017/S0003055420000416">Cirone, Cox og Fiva (2020)</a>. Dei har forska på nominasjon og politiske karrierer i Noreg frå 1945-2019. Veldig forenkla, finn dei to gjennomgåande praksisar: nominasjon av sittande politikarar og interne opprykk basert på erfaring. Dei peiker blant anna på at senoritetssystem kan gje meir stabile og disiplinerte parti. Noko som gjer val meir oversiktlege for veljarane.</p>
+<p>Dette er ein viktig debatt å ta. Men me kjem ikkje nokon veg med halvdårlege hofteskudd frå Finland. Om me skal fortsetja å gje så mykje makt til dei politiske partia som me gjer, må me óg ha mykje strengare ansvarleggjeringsmekanismar på plass for partia og deira medlemmar. Me treng ikkje sjå lenger enn alle dei politiske skandalane dei siste åra for å forstå at me treng meir anvarleggjering. Og, det er eit reelt alternativ å gje velgarane meir makt via opne(re) lister. Det største problemet er at aktørane som kan endra på systemet – politikarane sjølv – då (sannsynligvis) sett seg sjølv i ein svakere posisjon for gjenval enn i systemet me har no. Det vert som å la tjuven bestemma låsen på fengselsdøra.</p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="valgordning,personstemmer,norsk politikk" data-listing-date-sort="1712613600000" data-listing-file-modified-sort="1712670702970" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="557">
-<div class="thumbnail">
-<p><a href="./posts/ss/index.html" class="no-external"></a></p><a href="./posts/ss/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/ss/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ss/index.html" class="no-external">Person eller parti?</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/ss/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('valgordning'); return false;">
-valgordning
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('personstemmer'); return false;">
-personstemmer
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('norsk politikk'); return false;">
-norsk politikk
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/ss/index.html" class="no-external">I det nyaste tilskotet i serien “Sanna Sarromaa har ei meining” kritiserast det norske valsystemet for mangel på valfridom. Me må sjå til Finland, sjølvsagt. Innlegget har…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/ss/index.html" class="no-external">
-<div class="listing-date">
-Apr 9, 2024
-</div>
-<div class="listing-author">
-Martin Søyland
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="lokalpolitikk,time kommune,norsk politikk" data-listing-date-sort="1701385200000" data-listing-file-modified-sort="1701433027548" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="513">
-<div class="thumbnail">
-<p><a href="./posts/tur/index.html" class="no-external"></a></p><a href="./posts/tur/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/tur/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/tur/index.html" class="no-external">Tur</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/tur/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('lokalpolitikk'); return false;">
-lokalpolitikk
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('time kommune'); return false;">
-time kommune
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('norsk politikk'); return false;">
-norsk politikk
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/tur/index.html" class="no-external">Å planlegga ein tur kan vera vanskeleg. Ikkje berre må me passa på at me har med oss alt me treng – tannbørste, undertøy, regnklede, telefon, det er mykje me må hugsa på –…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/tur/index.html" class="no-external">
-<div class="listing-date">
-Dec 1, 2023
-</div>
-<div class="listing-author">
-Martin Søyland
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="lokal politikk,datasenter,matjord" data-listing-date-sort="1699570800000" data-listing-file-modified-sort="1700660191642" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
-<div class="thumbnail">
-<p><a href="./posts/sa20231110/index.html" class="no-external"></a></p><a href="./posts/sa20231110/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/sa20231110/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/sa20231110/index.html" class="no-external">Freista og forført</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/sa20231110/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('lokal politikk'); return false;">
-lokal politikk
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('datasenter'); return false;">
-datasenter
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('matjord'); return false;">
-matjord
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/sa20231110/index.html" class="no-external">Leserinnlegg i Stavanger Aftenblad</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/sa20231110/index.html" class="no-external">
-<div class="listing-date">
-Nov 10, 2023
-</div>
-<div class="listing-author">
-Martin Søyland
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="norsk politikk,skandaler,institusjoner" data-listing-date-sort="1695938400000" data-listing-file-modified-sort="1698132078941" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="60">
-<div class="thumbnail">
-<p><a href="./posts/dag_og_tid20230929/index.html" class="no-external"></a></p><a href="./posts/dag_og_tid20230929/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/dag_og_tid20230929/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/dag_og_tid20230929/index.html" class="no-external">Hvor ble det av ryggraden?</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/dag_og_tid20230929/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('norsk politikk'); return false;">
-norsk politikk
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('skandaler'); return false;">
-skandaler
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('institusjoner'); return false;">
-institusjoner
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/dag_og_tid20230929/index.html" class="no-external">Leserinnlegg i Dag og Tid</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/dag_og_tid20230929/index.html" class="no-external">
-<div class="listing-date">
-Sep 29, 2023
-</div>
-<div class="listing-author">
-Martin Søyland
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="meta,news" data-listing-date-sort="1695592800000" data-listing-file-modified-sort="1695902915000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="60">
-<div class="thumbnail">
-<p><a href="./posts/test_post/index.html" class="no-external"></a></p><a href="./posts/test_post/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/test_post/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/test_post/index.html" class="no-external">New blog!</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/test_post/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('meta'); return false;">
-meta
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/test_post/index.html" class="no-external">A site for publishing interesting stuff that in itself might not be enough for a publication or opinion piece. Will contain both Norwegian and English language.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/test_post/index.html" class="no-external">
-<div class="listing-date">
-Sep 25, 2023
-</div>
-<div class="listing-author">
-Martin Søyland
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="norsk politikk,demokrati,lokal politikk" data-listing-date-sort="1624226400000" data-listing-file-modified-sort="1700660324102" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
-<div class="thumbnail">
-<p><a href="./posts/jbl20210623/index.html" class="no-external"></a></p><a href="./posts/jbl20210623/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/jbl20210623/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/jbl20210623/index.html" class="no-external">Plagsomt med demokrati i Time kommune</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/jbl20210623/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('norsk politikk'); return false;">
-norsk politikk
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('demokrati'); return false;">
-demokrati
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('lokal politikk'); return false;">
-lokal politikk
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/jbl20210623/index.html" class="no-external">Leserinnlegg i Jærbladet</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/jbl20210623/index.html" class="no-external">
-<div class="listing-date">
-Jun 21, 2021
-</div>
-<div class="listing-author">
-Martin Søyland
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
