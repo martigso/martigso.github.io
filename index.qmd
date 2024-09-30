@@ -7,18 +7,19 @@ title: "[Martin Søyland]{.neuorange}"
 ```{r}
 #| echo: false
 #| eval: true
+#| results: asis
 glue::glue("{mortar_board} {position}
            {department_store} {department}
            {cityscape} {employer}
            {email} {emaillink}",
-           position = "Postdoctoral Fellow",
-           employer = "University of Oslo",
-           department = "Department of Political Science",
+           position = "Postdoctoral Fellow\n",
+           employer = "University of Oslo\n",
+           department = "Department of Political Science\n",
            mortar_board = emo::ji("mortar_board"),
            department_store = emo::ji("department_store"),
            cityscape = emo::ji("cityscape"),
            email = emo::ji("email"),
-           emaillink = "martin.soyland@stv.uio.no")
+           emaillink = "[martin.soyland@stv.uio.no](mailto:martin.soyland@stv.uio.no)\n")
 ```
 
 
