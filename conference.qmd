@@ -27,7 +27,7 @@ title: "Conference Papers"
 ### Collaborating authors:
 
 
-<a href="https://scholar.google.no/citations?user=-ZuADtFMAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-ZuADtFMAAAAJ&citpid=1" title="Eli Sofie Baltzersen" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=ZuADtFMAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZuADtFMAAAAJ&citpid=1" title="Eli Sofie Baltzersen" class="circle-img"/></a>
 <a href="https://scholar.google.no/citations?user=CntWUTIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=CntWUTIAAAAJ&citpid=1" title="Solveig Bjørkholt" class="circle-img"/></a>
 <a href="https://scholar.google.no/citations?user=DBeFxDgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DBeFxDgAAAAJ&citpid=1" title="Vilde L. Djuve" class="circle-img"/></a>
 <a href="https://scholar.google.no/citations?user=gRyjUuwAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gRyjUuwAAAAJ&citpid=1" title="Frederik Hjorth" class="circle-img"/></a>
