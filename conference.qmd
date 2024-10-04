@@ -12,17 +12,25 @@ title: "Conference Papers"
 </style>
 
 
-- Søyland, Martin (2023). [stortingscrape: An R package for accessing data from the Norwegian parliament](/papers/stortingscrape20231012.pdf). Tuesday seminar, University of Oslo.<br><br>
-- Søyland, Martin (2020). [Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text](/papers/classification_tuesdaysem2020.pdf). Tuesday seminar, University of Oslo.<br><br>
-- Djuve, Vilde L. and Martin Søyland (2024). Mapping Global Politics through the UN General Assembly: Entity Networks Across Space and Time. Tuesday seminar, University of Oslo.<br><br>
-- Bjørkholt, Solveig and Martin Søyland (2024). Asking with Intent: On the functions of written parliamentary questions. NOPSA 2024, Bergen.<br><br>
-- Røed, Maiken and Martin Søyland (2024). Trade Union Appeals in the UK House of Commons (1950-2019). EPSA 2024.
-
-Collaborating authors:
+- Bjørkholt, Solveig and Martin Søyland (2024). *Asking with Intent: On the functions of written parliamentary questions*. NOPSA 2024, Bergen.<br><br>
+- Djuve, Vilde L. and Martin Søyland (2024). *Mapping Global Politics through the UN General Assembly: Entity Networks Across Space and Time*. Tuesday seminar, University of Oslo.<br><br>
+- Røed, Maiken and Martin Søyland (2024). *Trade Union Appeals in the UK House of Commons (1950-2019)*. EPSA 2024.
+- Søyland, Martin (2023). [*stortingscrape: An R package for accessing data from the Norwegian parliament*](/papers/stortingscrape20231012.pdf). Tuesday seminar, University of Oslo.<br><br>
+- Søyland, Martin (2020). [*Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text*](/papers/classification_tuesdaysem2020.pdf). Tuesday seminar, University of Oslo.<br><br>
 
 
-<a href="https://scholar.google.no/citations?user=DBeFxDgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DBeFxDgAAAAJ&citpid=1" title="Vilde L. Djuve" class="circle-img"/></a>
+# Work in progress
+
+- Hjort, Frederik, Tore Wig, Eli S. Baltzersen, and Martin Søyaland. *Critical Social Science as Political Force*.<br><br>
+- Thürk, Maria and Martin Søyland. *Strategic sponsorship: Cooperation networks in private member bills*.
+
+### Collaborating authors:
+
+
+<a href="https://scholar.google.no/citations?user=-ZuADtFMAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-ZuADtFMAAAAJ&citpid=1" title="Eli Sofie Baltzersen" class="circle-img"/></a>
 <a href="https://scholar.google.no/citations?user=CntWUTIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=CntWUTIAAAAJ&citpid=1" title="Solveig Bjørkholt" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=DBeFxDgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DBeFxDgAAAAJ&citpid=1" title="Vilde L. Djuve" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=gRyjUuwAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gRyjUuwAAAAJ&citpid=1" title="Frederik Hjorth" class="circle-img"/></a>
 <a href="https://scholar.google.no/citations?user=RcGOoboAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RcGOoboAAAAJ&citpid=1" title="Maiken Røed" class="circle-img"/></a>
-
-<!-- - Bjørkholt, Solveig and Martin Søyland (2022). [Party Conflict and Coalition Control in Parliament](/papers/question_sentiment_epsa23.pdf). PODS workshop, University of Oslo.<br><br> -->
+<a href="https://scholar.google.no/citations?user=uB7jx6wAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uB7jx6wAAAAJ&citpid=1" title="Maria Thürk" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=-VZ9_fAAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-VZ9_fAAAAAJ&citpid=1" title="Tore Wig" class="circle-img"/></a>
