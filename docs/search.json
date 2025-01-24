@@ -36,7 +36,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Person eller parti?\n\n\n\n\n\n\nvalgordning\n\n\npersonstemmer\n\n\nnorsk politikk\n\n\n\n\n\n\n\n\n\nApr 9, 2024\n\n\nMartin Søyland\n\n\n\n\n\n\n\n\n\n\n\n\nTur\n\n\n\n\n\n\nlokalpolitikk\n\n\ntime kommune\n\n\nnorsk politikk\n\n\n\n\n\n\n\n\n\nDec 1, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\n\n\n\n\n\n\nFreista og forført\n\n\n\n\n\n\nlokal politikk\n\n\ndatasenter\n\n\nmatjord\n\n\n\nLeserinnlegg i Stavanger Aftenblad\n\n\n\n\n\nNov 10, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\n\n\n\n\n\n\nHvor ble det av ryggraden?\n\n\n\n\n\n\nnorsk politikk\n\n\nskandaler\n\n\ninstitusjoner\n\n\n\nLeserinnlegg i Dag og Tid\n\n\n\n\n\nSep 29, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\n\n\n\n\n\n\nNew blog!\n\n\n\n\n\n\nmeta\n\n\nnews\n\n\n\nA site for publishing interesting stuff that in itself might not be enough for a publication or opinion piece. Will contain both Norwegian and English language.\n\n\n\n\n\nSep 25, 2023\n\n\nMartin Søyland\n\n\n\n\n\n\n\n\n\n\n\n\nPlagsomt med demokrati i Time kommune\n\n\n\n\n\n\nnorsk politikk\n\n\ndemokrati\n\n\nlokal politikk\n\n\n\nLeserinnlegg i Jærbladet\n\n\n\n\n\nJun 21, 2021\n\n\nMartin Søyland\n\n\n\n\n\n\nNo matching items",
+    "text": "Person eller parti?\n\n\n \n\n\nvalgordning\n\npersonstemmer\n\nnorsk politikk\n\n\n \n\n\n\n\n\nApr 9, 2024\nMartin Søyland\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTur\n\n\n \n\n\nlokalpolitikk\n\ntime kommune\n\nnorsk politikk\n\n\n \n\n\n\n\n\nDec 1, 2023\nMartin Søyland\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFreista og forført\n\n\n \n\n\nlokal politikk\n\ndatasenter\n\nmatjord\n\n\n \n\nLeserinnlegg i Stavanger Aftenblad\n\n\n\nNov 10, 2023\nMartin Søyland\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHvor ble det av ryggraden?\n\n\n \n\n\nnorsk politikk\n\nskandaler\n\ninstitusjoner\n\n\n \n\nLeserinnlegg i Dag og Tid\n\n\n\nSep 29, 2023\nMartin Søyland\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew blog!\n\n\n \n\n\nmeta\n\nnews\n\n\n \n\nA site for publishing interesting stuff that in itself might not be enough for a publication or opinion piece. Will contain both Norwegian and English language.\n\n\n\nSep 25, 2023\nMartin Søyland\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlagsomt med demokrati i Time kommune\n\n\n \n\n\nnorsk politikk\n\ndemokrati\n\nlokal politikk\n\n\n \n\nLeserinnlegg i Jærbladet\n\n\n\nJun 21, 2021\nMartin Søyland\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Opinions",
       "Blog"
@@ -78,12 +78,12 @@
   {
     "objectID": "conference.html",
     "href": "conference.html",
-    "title": "Conference Papers",
+    "title": "Ongoing Projects",
     "section": "",
-    "text": "Søyland, Martin (2023). stortingscrape: An R package for accessing data from the Norwegian parliament. Tuesday seminar, University of Oslo.\nSøyland, Martin (2020). Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text. Tuesday seminar, University of Oslo.\nDjuve, Vilde L. and Martin Søyland (2024). Mapping Global Politics through the UN General Assembly: Entity Networks Across Space and Time. Tuesday seminar, University of Oslo.\nBjørkholt, Solveig and Martin Søyland (2024). Asking with Intent: On the functions of written parliamentary questions. NOPSA 2024, Bergen.\nRøed, Maiken and Martin Søyland (2024). Trade Union Appeals in the UK House of Commons (1950-2019). EPSA 2024.\n\nCollaborating authors:",
+    "text": "Søyland, Martin (2023). stortingscrape: An R package for accessing data from the Norwegian parliament. Tuesday seminar, University of Oslo.\nSøyland, Martin (2020). Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text. Tuesday seminar, University of Oslo.\nDjuve, Vilde L. and Martin Søyland (2024). Mapping Global Politics through the UN General Assembly: Entity Networks Across Space and Time. Tuesday seminar, University of Oslo.\nBjørkholt, Solveig and Martin Søyland (2024). Asking with Intent: On the functions of written parliamentary questions. NOPSA 2024, Bergen.\nRøed, Maiken and Martin Søyland (2024). Trade Union Appeals in the UK House of Commons (1950-2019). EPSA 2024.\nRøed, Maiken, Martin Søyland and Hanna Bäck (2025). Gendered Communication in Parliamentary Questions. NFS 2025, Bergen.\nSøyland, Martin and Thürk Maria (2025). Cross-partisan co-sponsoring in parliamentary systems.\n\nCollaborating authors:",
     "crumbs": [
       "Research",
-      "Conference Papers"
+      "Ongoing Projects"
     ]
   },
   {

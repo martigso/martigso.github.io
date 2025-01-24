@@ -1,5 +1,5 @@
 ---
-title: "Conference Papers"
+title: "Ongoing Projects"
 ---
 
 <style>
@@ -16,13 +16,15 @@ title: "Conference Papers"
 - Søyland, Martin (2020). [Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text](/papers/classification_tuesdaysem2020.pdf). Tuesday seminar, University of Oslo.<br><br>
 - Djuve, Vilde L. and Martin Søyland (2024). Mapping Global Politics through the UN General Assembly: Entity Networks Across Space and Time. Tuesday seminar, University of Oslo.<br><br>
 - Bjørkholt, Solveig and Martin Søyland (2024). Asking with Intent: On the functions of written parliamentary questions. NOPSA 2024, Bergen.<br><br>
-- Røed, Maiken and Martin Søyland (2024). Trade Union Appeals in the UK House of Commons (1950-2019). EPSA 2024.
+- Røed, Maiken and Martin Søyland (2024). Trade Union Appeals in the UK House of Commons (1950-2019). EPSA 2024.<br><br>
+- Røed, Maiken, Martin Søyland and Hanna Bäck (2025). Gendered Communication in Parliamentary Questions. NFS 2025, Bergen.<br><br>
+- Søyland, Martin and Thürk Maria (2025). Cross-partisan co-sponsoring in parliamentary
+systems.<br><br>
 
 Collaborating authors:
-
 
 <a href="https://scholar.google.no/citations?user=DBeFxDgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DBeFxDgAAAAJ&citpid=1" title="Vilde L. Djuve" class="circle-img"/></a>
 <a href="https://scholar.google.no/citations?user=CntWUTIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=CntWUTIAAAAJ&citpid=1" title="Solveig Bjørkholt" class="circle-img"/></a>
 <a href="https://scholar.google.no/citations?user=RcGOoboAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RcGOoboAAAAJ&citpid=1" title="Maiken Røed" class="circle-img"/></a>
-
-<!-- - Bjørkholt, Solveig and Martin Søyland (2022). [Party Conflict and Coalition Control in Parliament](/papers/question_sentiment_epsa23.pdf). PODS workshop, University of Oslo.<br><br> -->
+<a href="https://scholar.google.no/citations?user=_5yqu8YAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_5yqu8YAAAAJ&citpid=1" title="Hanna Bäck" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=uB7jx6wAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uB7jx6wAAAAJ&citpid=1" title="Maria Thürk" class="circle-img"/></a>
