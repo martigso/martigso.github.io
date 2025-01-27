@@ -2,7 +2,7 @@
 title: "[Martin Søyland]{.neuorange}"
 ---
 
-![](ms.jpeg){width=25%}
+![](martigso2.png){width=25%}
     
 ```{r}
 #| echo: false
