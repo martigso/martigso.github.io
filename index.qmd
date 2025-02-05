@@ -55,3 +55,7 @@ kableExtra::kable(pubs_clean[1:5, ],
 #               ))
 
 ```
+
+# CV
+
+[View complete academic CV!](/cv/soyland_cv.pdf).
