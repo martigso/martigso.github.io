@@ -10,7 +10,83 @@
 <atom:link href="https://martigso.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.6</generator>
-<lastBuildDate>Mon, 08 Apr 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Spør Ekko: Regjeringskabalen</title>
+  <link>https://martigso.github.io/posts/ekko20250205/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_65a67f78-a2b1-465b-a67f-78a2b1965b85">Resten av artikkelen finner du her!</a></p>
+
+
+
+ ]]></description>
+  <category>norsk politikk</category>
+  <category>skandaler</category>
+  <category>nrk</category>
+  <guid>https://martigso.github.io/posts/ekko20250205/</guid>
+  <pubDate>Tue, 04 Feb 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Regjerings-exit for dummies</title>
+  <link>https://martigso.github.io/posts/aftenposten20250130/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.aftenposten.no/norge/politikk/i/W0XbmL/hva-skjer-naa-som-senterpartiet-gaar-ut-av-regjeringen">Regjerings-exit for dummies!</a></p>
+
+
+
+ ]]></description>
+  <category>norsk politikk</category>
+  <category>skandaler</category>
+  <category>regjering</category>
+  <guid>https://martigso.github.io/posts/aftenposten20250130/</guid>
+  <pubDate>Wed, 29 Jan 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Erna Solberg kom oftare til Stortinget enn Jonas Gahr Støre</title>
+  <link>https://martigso.github.io/posts/nrk20240529/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.nrk.no/vestland/erna-solberg-kom-oftare-til-stortinget-enn-jonas-gahr-store-1.16900456">Erna Solberg kom oftare til Stortinget enn Jonas Gahr Støre!</a></p>
+
+
+
+ ]]></description>
+  <category>norsk politikk</category>
+  <category>demokrati</category>
+  <category>institusjoner</category>
+  <guid>https://martigso.github.io/posts/nrk20240529/</guid>
+  <pubDate>Tue, 28 May 2024 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Forskere fikk meldeplikt, men alle kildene var døde</title>
+  <link>https://martigso.github.io/posts/krono20220213/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.khrono.no/forskere-fikk-meldeplikt-men-alle-kildene-var-dode/659290">Forskere fikk meldeplikt, men alle kildene var døde</a></p>
+
+
+
+ ]]></description>
+  <category>forskning</category>
+  <category>personvern</category>
+  <category>stortinget</category>
+  <guid>https://martigso.github.io/posts/krono20220213/</guid>
+  <pubDate>Tue, 28 May 2024 22:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Person eller parti?</title>
   <dc:creator>Martin Søyland</dc:creator>
@@ -123,6 +199,26 @@
   <category>news</category>
   <guid>https://martigso.github.io/posts/test_post/</guid>
   <pubDate>Sun, 24 Sep 2023 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Hvor demokratisk er det norske demokratiet?</title>
+  <dc:creator>TiNDe </dc:creator>
+  <link>https://martigso.github.io/posts/vg20230817/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Om vi klarer frembringe et enda mer velfungerende demokrati, med bred deltagelse og høy legitimitet i ulike grupper, vil vi sannsynligvis stå enda bedre rustet den dagen en autoritær trussel skulle komme. <a href="https://www.vg.no/nyheter/i/onQpQg/hvor-demokratisk-er-det-norske-demokratiet">Et risikomoment er en naiv tro på at demokratiet vårt er immunt mot slike trusler.</a></p>
+
+
+
+ ]]></description>
+  <category>norsk politikk</category>
+  <category>demokrati</category>
+  <category>TiNDe</category>
+  <guid>https://martigso.github.io/posts/vg20230817/</guid>
+  <pubDate>Wed, 16 Aug 2023 22:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Plagsomt med demokrati i Time kommune</title>

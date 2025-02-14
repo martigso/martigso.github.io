@@ -1,0 +1,11 @@
+---
+title: "Regjerings-exit for dummies"
+description: "Aftenposten (intervju)"
+date: "2025-01-30"
+categories:
+  - norsk politikk
+  - skandaler
+  - regjering
+---
+
+[Regjerings-exit for dummies!](https://www.aftenposten.no/norge/politikk/i/W0XbmL/hva-skjer-naa-som-senterpartiet-gaar-ut-av-regjeringen)

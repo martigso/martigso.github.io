@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Media and opinions"
 listing:
   contents: posts
   feed: true
@@ -8,3 +8,121 @@ listing:
   categories: true
 ---
 
+
+
+<!-- %------------------------------------------------
+
+
+
+
+%------------------------------------------------
+%------------------------------------------------
+
+
+
+%------------------------------------------------
+\cvhonor
+{\href{}{\textit{}}} 
+{University of Oslo} 
+{Interview} 
+{2022} 
+%------------------------------------------------
+
+%------------------------------------------------
+\cvhonor
+{\textit{DH-forum: R and accessing the Norwegian parliamentary data}} 
+{University of Oslo} 
+{Invited presentation} 
+{2022} 
+%------------------------------------------------
+
+%------------------------------------------------
+\cvhonor
+{\href{https://www.uio.no/studier/emner/matnat/fys/HON1000/v22/foredrag/martin-soyland-data-science-i-statsvitenskap.html}{\textit{Statsvitenskapelige analyser av store datamengder}}} 
+{University of Oslo, HON1000} 
+{Invited presentation} 
+{2022} 
+%------------------------------------------------
+%------------------------------------------------
+
+\cvhonor
+{\textit{VGTV: Nye meningsmålinger}} 
+{Verdens Gang} 
+{TV show} 
+{2021} 
+%------------------------------------------------
+
+%------------------------------------------------
+%------------------------------------------------
+\cvhonor
+{\href{https://www.jbl.no/jeg-er-dypt-uenig-i-verdiene-vollsund-fremmer-men-jeg-har-respekt-for-at-han-torr-a-si-akkurat-dette/o/5-103-641851}{\textit{Plagsomt med demokrati}}} 
+{Jærbladet} 
+{Op-ed} 
+{2021} 
+%------------------------------------------------
+
+%------------------------------------------------
+\cvhonor
+{\href{https://www.forskning.no/politikk-valg/politikere-bor-holde-seg-til-a-snakke-om-politikk-viser-ny-forskning/1366887}{\textit{Erna Solberg ga Stortinget feilaktige flyktningtall}}} 
+{Aftenposten} 
+{Interview} 
+{2019} 
+%------------------------------------------------
+
+\cvhonor
+{\href{https://www.forskning.no/politikk-valg/politikere-bor-holde-seg-til-a-snakke-om-politikk-viser-ny-forskning/1366887}{\textit{Politikere bør holde seg til å snakke om politikk, viser ny forskning}}} 
+{forskning.no} 
+{Dissemination} 
+{2019} 
+%------------------------------------------------
+
+%------------------------------------------------
+
+\cvhonor
+{\href{https://www.nrk.no/norge/venstre-bestemmer-seg-ikkje-for-budsjettet-er-landa-1.13735326}{\textit{Bestemmer seg først når budsjettet er landa}}}
+{NRK} 
+{Interview} 
+{2017} 
+
+%------------------------------------------------
+%------------------------------------------------
+
+\cvhonor
+{\textit{Ikke representativt}}
+{Vårt Land} 
+{Interview} 
+{2017} 
+
+%------------------------------------------------
+
+%------------------------------------------------
+\cvhonor
+{\textit{Personstemmer går på bekostning av politikk}}
+{Aftenposten} 
+{Op-ed} 
+{2016} 
+%------------------------------------------------
+
+%------------------------------------------------
+\cvhonor
+{\href{https://www.jaermuseet.no/garborgsenteret/wp-content/uploads/sites/2/2015/10/MartinB.pdf}{\textit{Bestemmer seg først når budsjettet er landa}}} 
+{NRK} 
+{Interview} 
+{2013} 
+
+%------------------------------------------------
+%------------------------------------------------
+
+\cvhonor
+{\textit{Breakfast Seminar: Artificial Intelligence in Social Science Research}} 
+{Læringsnettverket EILIN} 
+{Invited presentation} 
+{2024} 
+
+%------------------------------------------------
+\cvhonor
+{\href{https://www.dataforeningen.no/arrangement/ung-i-it-meetup/}{\textit{Ung i IT – Meetup}}} 
+{Dataforeningen, UiO} 
+{Invited presentation} 
+{2023} 
+%------------------------------------------------ -->

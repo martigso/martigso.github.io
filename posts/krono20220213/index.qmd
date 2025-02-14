@@ -1,0 +1,11 @@
+---
+title: "Forskere fikk meldeplikt, men alle kildene var døde"
+description: "Krono (intervju)"
+date: "2024-05-29"
+categories:
+  - forskning
+  - personvern
+  - stortinget
+---
+
+[Forskere fikk meldeplikt, men alle kildene var døde](https://www.khrono.no/forskere-fikk-meldeplikt-men-alle-kildene-var-dode/659290)
