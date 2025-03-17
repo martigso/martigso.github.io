@@ -14,7 +14,7 @@ title: "Publications"
 2024:
 
 - [The Drama is in the Ink: Conflict in Written Parliamentary Questions.](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12474). (Co-authored with Solveig Bjørkholt)<br>
-- Legislative Party Cohesion and Discipline. Forthcoming in *Oxford Handbook of Norwegian Politics*. (Co-authored with Oda Nedregård)
+- [Legislative Party Cohesion and Discipline. Forthcoming in *Oxford Handbook of Norwegian Politics*.](./papers/chap19_20240605.pdf) (Co-authored with Oda Nedregård, preprint)
 
 2023:
 
