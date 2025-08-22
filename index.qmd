@@ -12,14 +12,14 @@ glue::glue("{mortar_board} {position}
            {department_store} {department}
            {cityscape} {employer}
            {email} {emaillink}",
-           position = "Postdoctoral Fellow\n",
-           employer = "University of Oslo\n",
-           department = "Department of Political Science\n",
+           position = "Associate Professor\n",
+           employer = "University of Stavanger\n",
+           department = "Department of Media and Social Sciences\n",
            mortar_board = emo::ji("mortar_board"),
            department_store = emo::ji("department_store"),
            cityscape = emo::ji("cityscape"),
            email = emo::ji("email"),
-           emaillink = "[martin.soyland@stv.uio.no](mailto:martin.soyland@stv.uio.no)\n")
+           emaillink = "[martin.soyland@uis.no](mailto:martin.soyland@uis.no)\n")
 ```
 
 
@@ -58,4 +58,4 @@ kableExtra::kable(pubs_clean[1:5, ],
 
 # CV
 
-[View complete academic CV!](/cv/soyland_cv.pdf).
+[View complete academic CV!](/cv/soyland_cv.pdf)

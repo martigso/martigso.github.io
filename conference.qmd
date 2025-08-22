@@ -12,15 +12,129 @@ title: "Ongoing Projects"
 </style>
 
 
-- Bjørkholt, Solveig and Martin Søyland (2024). [Asking with Intent: On the functions of written parliamentary questions](/papers/question_intent24.pdf). NOPSA 2024, Bergen.<br><br>
-- Djuve, Vilde L. and Martin Søyland (2024). [Patterns of Global Politics: Geopolitical Entity Networks in the UN General Assembly](/papers/patterns.pdf). APSA 2024.<br><br>
-- Hjorth, Frederik, Tore Wig, Eli S. Baltzersen, and Martin Søyland (2025). The Political Origins of Critical Social Science.<br><br>
-- Røed, Maiken and Martin Søyland (2024). Trade Union Appeals in the UK House of Commons (1950-2019). EPSA 2024.<br><br>
-- Røed, Maiken, Martin Søyland and Hanna Bäck (2025). Gendered Communication in Parliamentary Questions. NFS 2025, Bergen.<br><br>
-- Søyland, Martin (2020). [Multi-party Classification of Parliamentary Debates: Intra-party cohesion and Inter-Party Relations Measured in Text](/papers/classification_tuesdaysem2020.pdf). Tuesday seminar, University of Oslo.<br><br>
-- Søyland, Martin (2023). [stortingscrape: An R package for accessing data from the Norwegian parliament](/papers/stortingscrape20231012.pdf). Tuesday seminar, University of Oslo.<br><br>
-- Søyland, Martin and Thürk Maria (2025). Cross-partisan co-sponsoring in parliamentary
-systems.<br><br>
+**Bjørkholt, Solveig and Martin Søyland (2025)**. [_Asking with Intent: On the functions of written parliamentary questions_](/papers/question_intent24.pdf). 
+
+[Presented at:]{.neuorange} NOPSA (2024), the Party Research Group Seminar Series at University of Gothenburg (2024), and Political Data Science seminar at the University of Oslo (2025).
+
+::: {.callout-tip collapse="true"}
+## Abstract:
+
+MP's participation in nonlegislative activities is considerable in parliaments around the world. Whether through hearings, questions, motions, interpellations, or other nonlegislative activities, MPs tend to engage in the arenas available to them. Studies on motivation, incentives, and intent behind participation in these activities is theoretically well-developed. One strand of this literature focus on the monitoring capabilities of parliament: how nonlegislative activities are used to gather information and hold the government accountable. Another strand argues that these activities are mainly used by MPs as a tool for issue competition and agenda setting. Finally, a third strand emphasize the potential for obstruction of the government. Empirically, however, studies on when and which of these explanations have more explanatory power for MP behavior is a lot more scarce. In this paper, we synthesize the three theoretical strands – monitoring, issue competition, and obstruction – into a generalized classification scheme for nonlegislative activities. Further, we leverage advances in large language modelling techniques to illustrate under what conditions the different functions are used in written parliamentary questions (WPQs) specifically. We find that MPs mainly use WPQs for oversight. Testing our models, we also find that MPs engage in issue competition close to elections.
+:::
+
+<hr>
+
+**Djuve, Vilde L. and Martin Søyland (2025)**. [_Patterns of Global Politics: Geopolitical Entity Networks in the UN General Assembly_](/papers/patterns.pdf). 
+
+[Presented at:]{.neuorange} APSA 2024, Comparative Institutions and Regimes seminar at the University of Oslo.
+
+::: {.callout-tip collapse="true"}
+## Abstract:
+
+Conceptualizing and measuring state influence in international relations is inherently difficult. In this paper, we propose a new, relational measure of state importance within the international system. We argue that asymmetrical distributions of attention among states reflect their centrality, and thus approximate their influence in the international network. Specifically, we utilize the UN General Debates and named entity recognition (NER) to identify which states mention each other in their speeches, build annual directed networks of mentions, and extract measures of centrality for each state based on these networks. We show that this relational approach to influence descriptively highlights expected trends of state importance and is driven in particular by indicators explaining state influence as a function of state size. Finally, we argue that this approach can be generalized to other arenas of international politics, or even different political arenas entirely, to gauge actor influence within the networks of those arenas.
+:::
+
+<hr>
+
+**Hjorth, Frederik, Tore Wig, Eli S. Baltzersen, and Martin Søyland (2025)**. _The Political Origins of Critical Social Science_.
+
+[Presented at:]{.neuorange} EPSA (2025), Department of political science at the University of Oslo (upcoming).
+
+::: {.callout-tip collapse="true"}
+## Abstract:
+
+The interface between social science theories and politics is rarely studied systematically. Yet, there are many examples of political actors and movements shaping the social sciences. We study the emergence of "critical social science" as a political phenomenon, and investigate its political origins. Drawing on academic publication data we propose a measurement strategy that captures the output of critical social science at the level of universities, sub-national locations and countries. Using our measure of critical social science, we chart its rise over time and space, and analyze its historical origins in radical student protest movements. Specifically, we look at whether the intensity and incidence of mass student protests 1968-1978 affects the university-level output of critical social science in the following decades. Our contribution highlights the importance of political history for understanding the trajectory of the social sciences, and how this can be studied rigorously in a large-n framework.
+
+:::
+
+<hr>
+
+**Kutsen, C. H., Dahlum, S., Allern, E., Klausen, J. E., Søyland, M., and Wig, T. (2025)**. _Far from perfect? A template for measuring regime developments in very democratic countries_
+
+[Presented at:]{.neuorange} EPSA (2025)
+
+::: {.callout-tip collapse="true"}
+## Abstract:
+
+Few social science concepts have been scrutinized as carefully as "democracy", and measurement efforts abound. Yet, existing democracy measures typically pertain to the national level, despite the importance of, and ample variation in, democracy at the regional and local levels. Moreover, most measures do not differentiate well between countries towards the more democratic end of the scale. This paper introduces a framework for measuring variations in degree of democracy at the national, regional, and local levels among "very democratic" regimes, enabling us to evaluate how close high-quality democracies are to democratic ideals. We discuss difficulties with and guidelines for how to build comprehensive democracy concepts that incorporate relevant features and practices that may vary in such contexts. We discuss how such concepts can be measured in practice and how to mitigate the different challenges with doing so, including data collection for hard-to-measure indicators, properly scaling indicators without clear maximum values, and aggregating varied indicators in a manner that reflects the conceptual logic. As a proof-of-concept we show how our measurement framework can be operationalized, using the case of Norway 2015-2021. We track five dimensions of democracy across three levels of government in Norway in the period, aiming to identify the relative strength and weaknesses of Norwegian democracy as well as recent trends. We also discuss the potential for (and pitfalls related to) extending and adapting these indices to measure democracy in other contexts.
+:::
+
+<hr>
+
+**Røed, Maiken and Martin Søyland (2025)**. _Trade Union Appeals in the UK House of Commons (1950-2019)_. 
+
+[Presented at:]{.neuorange} EPSA (2024), Department of political science at the University of Oslo (2025)
+
+::: {.callout-tip collapse="true"}
+## Abstract:
+
+Legislators are important intermediaries in democracies. To signal that they work to represent certain interests, they may associate themselves with or dissociate themselves from groups. We study when legislators use such appeals to another important intermediary: trade unions. We argue that trade union appeals can be a direct and indirect vote-seeking strategy to mobilise voters and the trade unions themselves. We expect that legislators' use of appeals partly depends on their party affiliation. Within parties, we moreover hypothesise that trade union sponsorships and electoral vulnerability matter. To test these expectations, we construct a new and rich dataset on legislators' union appeals in close to three million speeches in the UK House of Commons between 1950 and 2019. We find partisan patterns and significant intra-party variation. These findings contribute to a better understanding of legislators' electoral strategies and how representation works in legislatures. 
+
+:::
+
+<hr>
+
+**Røed, Maiken, Martin Søyland and Hanna Bäck (2025)**. _Gendered Communication in Parliamentary Questions_.
+
+[Presented at:]{.neuorange} EPSA (2025), Norwegian Political Science Association (2025)
+
+::: {.callout-tip collapse="true"}
+## Abstract:
+
+Studies of parliamentary behavior often ignore social interaction effects between politicians. We ask to what extent female and male MPs adapt their communication depending on the gender of their audience. Based on role congruity and social identity theory, we hypothesize that MPs of the same gender use a more similar communication and that this effect is accelerated when the receiver of the question is of the same gender. Our analyses are based on domain-specific gendered language in close to 30,000 written questions in the Norwegian parliament. In line with our expectations, we find an overall pattern of more gendered language towards the same gender, but only for female MPs. However, using a quasi-experimental design, we also find that men react to ministerial post changes by using less similar language to ministers of their own gender. These findings shed new light on parliaments as gendered institutions.
+
+:::
+
+**Søyland, Martin (2025)**. _Where You Speak and What You Say: Legislative Debates and the Role of Institutional Setting_.
+
+[Presented at:]{.neuorange} Department of political science at the University of Oslo (2020).
+
+::: {.callout-tip collapse="true"}
+## Abstract:
+
+Big text data has been increasingly used to explain political behavior in all sub-fields of political science. Despite long-standing literatures on how different settings affect text generation, such context is often forgotten or ignored in large scale analyses of text in political science. In this paper, I zoom in on the legislative debate literature to show how text generation can yield widely different, if not opposite, results when accounting for the institutional rules within a legislature. Further, I show how most legislative debate databases lack indicators for the institutional setting of speeches, and propose a method for how to impute such information by leveraging large language models. The paper contributes to our understanding of how the data generating process is affected by context and a method for appending contextual indicators to databases.
+:::
+
+<hr>
+
+**Søyland, Martin (2025)**. _Data Reusability in Political Science_. 
+
+[Presented at:]{.neuorange} Department of political science at the University of Oslo (2023), Norwegian Political Science Association (2025)
+
+::: {.callout-tip collapse="true"}
+## Abstract:
+
+Open data has become the rule in large parts of political science publishing. The potential for reuse of data has never been greater, but second-hand use of data is, nevertheless, both underutilized and undervalued in the discipline. I propose a framework for enhancing data reusability – defined as the extent to which research contributions can be reused beyond their original intent – in data gathering with a checklist based on five principles: 1) data inclusion, 2) documentation, 3) disaggregation, 4) raw data, and 5) merging potential. By applying the checklist to recent articles in the top journal of the field, I find significant room for improvement in facilitating reusability in all categories. Furthermore, I show that the few existing reusability enhancing initiatives are greatly undervalued. The paper provides an important contribution to the conceptual framework of open science in general and a set of practical strategies for improving data reusability specifically.
+:::
+
+<hr>
+
+**Søyland, Martin and Thürk Maria (2025)**. Cross-partisan co-sponsoring in parliamentary systems.
+
+[Presented at:]{.neuorange} EPSA (2025), ECPR Standing Group on Parliaments (2025)
+
+::: {.callout-tip collapse="true"}
+## Abstract:
+
+Co-sponsoring of policy proposals has received limited attention in multi-party parliamentary systems, where government-dominated processes typically sideline private member bills (PMBs). This study sheds light on co-sponsoring of PMBs in general and cross-partisan co-sponsoring in particular. We argue that cabinet parties have limited incentives to participate in co-sponsoring PMBs, while opposition parties use them for shadow cabinet work and pre-electoral coalition building. Drawing on a comprehensive dataset of Norwegian PMBs, we test these claims empirically. First, we show that the main driver of co-sponsoring is driven by opposition MP's party affiliation, but also that parties engage in substantial amounts of cross-partisan co-sponsoring. Second, we exploit a party block switch to show that MPs use PMBs to build shadow coalitions while in opposition. Finally, we use text embedding techniques to align PMBs with ideology based on party programs, demonstrating that cross-party co-sponsorship takes the form of a compromise between the parties of the participating MPs. These findings advance our understanding of legislative behavior and coalition-building in parliamentary democracies. 
+:::
+
+<hr>
+
+**Søyland, M., Djuve, V. L., and Tørstad, V. (2025)**. _From Ideas to Global Goals: Sustainable Development Goals in the United Nations General Assembly._
+
+::: {.callout-tip collapse="true"}
+## Abstract:
+
+The global Sustainable Development Goals (SGDs) have affected international and national politics greatly over the last decade. Although the formalization of the goals are quite new, the ideas behind them have been developed over large stretches of time. In this paper, I leverage the SGD corpus to map SGD attention in United Nations General Assembly's (UNGA) annual debates since the UN's initiation in the aftermath of World War II. More specifically, I fine-tune a large language model to identify SGD prevalence in text and estimate UNGA member state's varying emphasis on the SDGs over time. I further show how influential member states are able to steer the attention towards specific SGDs. The paper contributes to our descriptive understanding of spatial and longitudinal prevalence of SGDs in the UNGA and how the interaction between states in the UN General Debates are shaped by influential member states.
+:::
+
+<hr>
+
+<!-- Everyday I’m Shoveling: Partisan Resource Allocation During External Shocks STiANSEN, Ø. AND SØYLAND, M. -->
+
+
+<!-- Fokus: Politikk og menneskerettigheter -->
 
 Collaborating authors:
 
@@ -31,4 +145,5 @@ Collaborating authors:
 <a href="https://scholar.google.no/citations?user=gRyjUuwAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gRyjUuwAAAAJ&citpid=1" title="Hjorth, Frederik" class="circle-img"/></a>
 <a href="https://scholar.google.no/citations?user=RcGOoboAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RcGOoboAAAAJ&citpid=1" title="Røed, Maiken" class="circle-img"/></a>
 <a href="https://scholar.google.no/citations?user=uB7jx6wAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uB7jx6wAAAAJ&citpid=1" title="Thürk, Maria" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=V-G9c1cAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=V-G9c1cAAAAJ&citpid=1" title="Tørstad, Vegard" class="circle-img"/></a>
 <a href="https://scholar.google.no/citations?user=-VZ9_fAAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-VZ9_fAAAAAJ&citpid=1" title="Wig, Tore" class="circle-img"/></a>
