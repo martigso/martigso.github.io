@@ -1,0 +1,11 @@
+---
+title: "Et steg til høyre?"
+description: "ABC nyheter"
+date: "2025-07-23"
+categories:
+  - norsk politikk
+  - skandaler
+  - regjering
+---
+
+[Dag-Inge Ulstein åpnet forrige uke for at KrF kan delta i en borgerlig regjering uten Venstre. Han svarer dermed på et spørsmål ingen egentlig har lurt på. Det leder oss til å spørre hva tanken bak utspillet egentlig er? På kort sikt er det fortsatt veldig lite sannsynlig med et valg i høst som ender med en regjering styrt av Høyre, Frp og KrF. Men det er mulig Ulstein har en mer langsiktig strategi: å flytte partiet lenger mot høyre ...](https://www.abcnyheter.no/stemmer/et-steg-til-hoyre/1145121)

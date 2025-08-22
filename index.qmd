@@ -47,15 +47,8 @@ kableExtra::kable(pubs_clean[1:5, ],
                   booktabs = TRUE,
                   row.names = FALSE)
 
-# DT::datatable(pubs_clean,
-#               rownames = FALSE,
-#               options = list(
-#                 dom = "lt",
-#                 pageLength = 3
-#               ))
-
 ```
 
-# CV
+<!-- # CV
 
-[View complete academic CV!](/cv/soyland_cv.pdf)
+[View complete academic CV!](/cv/soyland_cv.pdf) -->

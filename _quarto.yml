@@ -32,12 +32,12 @@ website:
     
     tools:
       
-      - icon: person-workspace
-        menu:
-          - text: UiO (nor)
-            url: https://www.sv.uio.no/isv/personer/vit/martigso/
-          - text: UiO (eng)
-            url: https://www.sv.uio.no/isv/english/people/aca/martigso
+      # - icon: person-workspace
+      #   menu:
+      #     - text: UiO (nor)
+      #       url: https://www.sv.uio.no/isv/personer/vit/martigso/
+      #     - text: UiO (eng)
+      #       url: https://www.sv.uio.no/isv/english/people/aca/martigso
         
       - icon: github
         menu:

@@ -10,7 +10,47 @@
 <atom:link href="https://martigso.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.33</generator>
-<lastBuildDate>Tue, 04 Feb 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Jul 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Også vi må være på vakt</title>
+  <link>https://martigso.github.io/posts/kk20240728/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://klassekampen.no/artikkel/2025-07-28/ogsa-vi-ma-vaere-pa-vakt">Det norske demokratiet er basert på uskrevne normer. I turbulente tider bør vi vurdere strengere regler.</a></p>
+
+
+
+ ]]></description>
+  <category>norsk politikk</category>
+  <category>skandaler</category>
+  <category>institusjoner</category>
+  <guid>https://martigso.github.io/posts/kk20240728/</guid>
+  <pubDate>Sun, 27 Jul 2025 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Et steg til høyre?</title>
+  <link>https://martigso.github.io/posts/abc20250723/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.abcnyheter.no/stemmer/et-steg-til-hoyre/1145121">Dag-Inge Ulstein åpnet forrige uke for at KrF kan delta i en borgerlig regjering uten Venstre. Han svarer dermed på et spørsmål ingen egentlig har lurt på. Det leder oss til å spørre hva tanken bak utspillet egentlig er? På kort sikt er det fortsatt veldig lite sannsynlig med et valg i høst som ender med en regjering styrt av Høyre, Frp og KrF. Men det er mulig Ulstein har en mer langsiktig strategi: å flytte partiet lenger mot høyre …</a></p>
+
+
+
+ ]]></description>
+  <category>norsk politikk</category>
+  <category>skandaler</category>
+  <category>regjering</category>
+  <guid>https://martigso.github.io/posts/abc20250723/</guid>
+  <pubDate>Tue, 22 Jul 2025 22:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Spør Ekko: Regjeringskabalen</title>
   <link>https://martigso.github.io/posts/ekko20250205/</link>
@@ -190,26 +230,6 @@
   <pubDate>Thu, 28 Sep 2023 22:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>New blog!</title>
-  <dc:creator>Martin Søyland</dc:creator>
-  <link>https://martigso.github.io/posts/test_post/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Sometimes, or most of the time, I produce stuff that might be of interest for only myself. This blog will be a wall for those things. It will probably be about a vast range of stuff, such as Norwegian politics, R code, and political events in general. Perhaps some poor soul will stumble into here and find it interesting. Enjoy!</p>
-
-
-
- ]]></description>
-  <category>meta</category>
-  <category>news</category>
-  <guid>https://martigso.github.io/posts/test_post/</guid>
-  <pubDate>Sun, 24 Sep 2023 22:00:00 GMT</pubDate>
-</item>
-<item>
   <title>Hvor demokratisk er det norske demokratiet?</title>
   <dc:creator>TiNDe </dc:creator>
   <link>https://martigso.github.io/posts/vg20230817/</link>
@@ -251,6 +271,26 @@
   <category>lokal politikk</category>
   <guid>https://martigso.github.io/posts/jbl20210623/</guid>
   <pubDate>Sun, 20 Jun 2021 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Bondestudenten</title>
+  <link>https://martigso.github.io/posts/jbl20130123/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.jaermuseet.no/garborgsenteret/wp-content/uploads/sites/2/2015/10/MartinB.pdf">Bondestudenten</a></p>
+
+
+
+ ]]></description>
+  <category>Oslo</category>
+  <category>Arne Garborg</category>
+  <category>jærbu</category>
+  <guid>https://martigso.github.io/posts/jbl20130123/</guid>
+  <pubDate>Tue, 22 Jan 2013 23:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

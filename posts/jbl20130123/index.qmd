@@ -1,0 +1,11 @@
+---
+title: "Bondestudenten"
+description: "Jærbladet"
+date: "2013-01-23"
+categories:
+  - Oslo
+  - Arne Garborg
+  - jærbu
+---
+
+[Bondestudenten](https://www.jaermuseet.no/garborgsenteret/wp-content/uploads/sites/2/2015/10/MartinB.pdf)
