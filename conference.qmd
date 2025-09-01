@@ -86,7 +86,7 @@ Legislators are important intermediaries in democracies. To signal that they wor
 
 **Røed, Maiken and Martin Søyland (2025)**. _Constituency Representation in the European Parliament and House of Commons_. 
 
-[Presented at:]{.neuorange} EPSA (2024), Department of political science at the University of Oslo (2025)
+<!-- [Presented at:]{.neuorange} EPSA (2024), Department of political science at the University of Oslo (2025) -->
 
 ::: {.callout-tip collapse="true"}
 ## Abstract:
