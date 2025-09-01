@@ -11,41 +11,129 @@ title: "Publications"
   }
 </style>
 
-2024:
+Nedregård, Oda and Martin Søyland. 2025. [Legislative Party Cohesion and Discipline. Forthcoming in *Oxford Handbook of Norwegian Politics*.](./papers/chap19_20240605.pdf)
 
-- [The Drama is in the Ink: Conflict in Written Parliamentary Questions.](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12474). (Co-authored with Solveig Bjørkholt)<br>
-- [Legislative Party Cohesion and Discipline. Forthcoming in *Oxford Handbook of Norwegian Politics*.](./papers/chap19_20240605.pdf) (Co-authored with Oda Nedregård, preprint)
+::: {.callout-tip collapse="true"}
+## Abstract
 
-2023:
+This chapter explores intraparty cohesion in the Norwegian parliament through voting and debates. It asks how cohesive parties are, in which settings, and the what disciplinary tools parties have at their disposal in parliament. By defining cohesion as observable unity of party groups, the chapter starts by discussing what incentives MPs have to dissent from the party in the first place and when party leaders might be expected to allow such dissent. Further, the chapter outlines the anatomy of parliamentary party groups in context of the Norwegian electoral system, the formal rules guiding parties in parliament, intraparty rules and structure, and the important role committees in Stortinget. Further, the chapter reviews, corroborates, and extends the findings of previous research in the Norwegian parliament by analyzing cohesion in voting and parliamentary debates. The main conclusion is that party cohesion is high, but also that MP discretion is contingent on the arena in which the MP participates. 
 
-- [Tilstandsanalyse av det norske demokratiet.](https://www.regjeringen.no/no/dokumenter/tilstandsanalyse-av-det-norske-demokratiet/id2991191/) (Government white paper)
+:::
 
-2022:
+<hr>
 
-- [Party Control and Responsiveness: How MPs Use Variation in Lower-Level Institutional Design as an Electoral Responsiveness Mechanism.](http://ceur-ws.org/Vol-3133/paper07.pdf)
+Bjørkholt, Solveig and Martin Søyland. 2024. [The Drama is in the Ink: Conflict in Written Parliamentary Questions.](https://onlinelibrary.wiley.com/doi/10.1111/lsq.12474). _Legislative Studies Quarterly_
 
-2021:
+::: {.callout-tip collapse="true"}
+## Abstract
 
-- [Committee-Membership Matters, Party Loyalty Decides in <em>The Politics of Legislative Debates (Hanna Back, Marc Debus, and Jorge M. Fernandes)</em>.](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198849063.001.0001/oso-9780198849063-chapter-31) (Co-authored with Bjørn Høyland)<br>
-- [Climate politics in har times: How local economic shocks influence MPs attention to climate change.](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12415) (Co-authored with Henning Finseraas and Bjørn Høyland)
+Opposition is a core component of any democracy, yet it is scarcely studied. Leaning on research prescribing blurred lines between government and opposition in parliamentary democracies, we use word embeddings in tandem with sentiment analysis on written parliamentary questions in the Norwegian parliament to study conflict patterns between the government and opposition. Our findings consistently show that MPs of governing parties are more negative than MPs of the opposition. However, the effect is reduced considerably when the topical content of the question is included in the analysis. We attribute our finding to the existence of a participation threshold in parliamentary questions; MPs of governing parties will only ask questions whenever a given issue is sufficiently contentious.
 
-2019:
+:::
 
-- [Is all PR good PR? How the content of media exposure affects candidate popularity.](https://www.sciencedirect.com/science/article/pii/S0261379418303548) (Co-authored with Haakon Gjerløw and Peter Egge Langsæther)<br>
-- [Electoral Reform and Parliamentary Debates.](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12237) (Co-authored with Bjørn Høyland)
+<hr>
 
-2018:
+Knutsen, Carl Henrik, Sirianne Dahlum, Elin Haugsgjerd Allern, Sara Bjønness Hagfors, Jan Erling Klausen, Martin Søyland and Tore Wig. 2023.
+[The Assessment of the State of Norwegian Democracy](https://www.regjeringen.no/no/dokumenter/tilstandsanalyse-av-det-norske-demokratiet/id2991191/) (Government white paper)
 
-- [The Talk of Norway: a richly annotated corpus of the Norwegian parliament, 1998–2016.](https://link.springer.com/article/10.1007/s10579-018-9411-5) (Co-authored with Emanuele Lapponi, Erik Velldal, and Stephan Oepen)
+::: {.callout-tip collapse="true"}
+## Abstract
 
-2017:
+The status analysis was commissioned by the Ministry of Local Government and Regional Development and conducted by researchers at the University of Oslo.
 
-- [Survival of the Ministers: On Ministerial Durability in Postwar Norway (2017)](http://onlinelibrary.wiley.com/doi/10.1111/1467-9477.12086/abstract)
+Democracy is measured broadly, based on five different democratic dimensions that cover all aspects of a democracy. Furthermore, the analysis encompasses all levels—national, regional, and local. The researchers have also developed democracy indicators that are better suited to highlighting strengths and vulnerabilities in high-quality democracies, such as the Nordic countries, compared to existing measures.
 
-2015:
+:::
 
-- [Tilbakeholden og ekspansiv liberalisme: - Om utenrikspolitikk i State of the Union-taler (2015)](https://www.idunn.no/ip/2015/01/tilbakeholden_og_ekspansiv_liberalisme_-_om_utenrikspoliti)
+<hr>
 
+Søyland, Martin. 2022. [Party Control and Responsiveness: How MPs Use Variation in Lower-Level Institutional Design as an Electoral Responsiveness Mechanism](http://ceur-ws.org/Vol-3133/paper07.pdf). (Conference Proceedings)
+
+::: {.callout-tip collapse="true"}
+## Abstract
+
+Different parliamentary activities allow Members of Parliament (MPs) varying amounts of autonomy. Previous studies have shown that, in parliamentary systems with strong parties and party-centered electoral rules, MPs have limited room for crossing the party line in the legislature both in voting and speech. Further, party-centered systems limit MP's ability to address electoral concerns of their constituency; they are less responsive. In this paper, I combine these findings by showing that even within system variation in party control over institutions affects the levels of responsiveness in parliamentary questions. By linking MP's constituency mentions with different types of questions, my results show that the institutional design in the Norwegian Storting affects the level of MP constituency signaling. Specifically, I show that questions with low levels of party control and public attention (written questions and question time) give MPs far more opportunity to raise constituency specific issues than the more party controlled activities (interpellations and question hours). Consequently, I argue that responsiveness does not disappear in party-centered systems; it is located at lower-level institutions. Particularly, some types of questions, where shirking from the party line is less consequential and the party organizations have less control over its members, allow for constituency signaling.
+
+:::
+
+<hr>
+
+Søyland, Martin and Bjørn Høyland. 2021. [Committee-Membership Matters, Party Loyalty Decides in <em>The Politics of Legislative Debates (Hanna Back, Marc Debus, and Jorge M. Fernandes)</em>](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198849063.001.0001/oso-9780198849063-chapter-31) 
+
+::: {.callout-tip collapse="true"}
+## Abstract
+
+In this chapter, we describe the institutional setting of parliamentary debate in Stortinget and identify correlates of speech participation, drawing on a dataset of more than a quarter of a million speeches from 1998 to 2016. The key correlate of speech participation is committee membership in the committee responsible for preparing the report for the topic under discussion. However, that is not the whole story. Party elites speak more than backbenchers. As speaking time is allocated proportional to party size, MPs from the smaller parties speak more often than their counterparts in the larger parties. While we uncover a gender difference in the overall allocation of speeches, this is only present amongst parties on the right of the political spectrum. We do not find a similar difference in length of speech or allocation of speeches amongst members within the same committee. Hence, we ascribe the gender difference in speeches to gender differences in committee composition.
+
+:::
+
+<hr>
+
+Finseraas, Henning, Bjørn Høyland, and Martin Søyland. 2021. [Climate politics in hard times: How local economic shocks influence MPs attention to climate change](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12415). _European Journal of Political Research_
+
+::: {.callout-tip collapse="true"}
+## Abstract
+
+Most countries struggle to implement $CO^2$ reducing policies. Implementation is politically difficult since it typically forces politicians to trade-off different concerns. The literature on how parties and members of parliament (MPs) handle these trade-offs is sparse. We use structural topic models to study how MPs in an oil dependent environment responded to a shock in the oil price that created spatially concentrated costs of climate policies. We leverage the rapid oil price drop between parliamentary sessions and MPs' constituency adherence in a difference-in-differences framework to identify if MPs respond differently to variation in the salience of trade-offs. We find that MPs facing high political costs of climate policies tried to avoid environmental topics, while less affected MPs talked more about investments in green energy when the oil price declined. Our results suggest that the oil price bust created a 'window of opportunity' for advocates of the 'green shift'.
+
+:::
+
+<hr>
+
+Lansæther, Peter Egge, Haakon Gjerløw and Martin Søyland. 2019. [Is all PR good PR? How the content of media exposure affects candidate popularity.](https://www.sciencedirect.com/science/article/pii/S0261379418303548). _Electoral Studies_.
+
+::: {.callout-tip collapse="true"}
+## Abstract
+
+Existing evidence shows that media exposure is associated with increased political popularity, but we know less about how the electoral effects of media coverage may vary with the content of the coverage. By collecting hundreds of thousands of media articles, which we then sort by content using automatic topic modelling, we build a unique dataset of political candidates, their popularity, and the quantity and type of media exposure that candidates receive. Analysing this dataset, we find that media attention is, indeed, an electoral asset. Further, and crucially, we find that voters reward politicians for politically relevant exposure, while non-political exposure is ignored, or even penalised. Consequently, this is good news for how democracies work; voters hold politicians accountable based on relevant information. The findings are of relevance to students of media, political behaviour, parties and political competition, as well as normative democratic theory.
+
+:::
+
+<hr>
+
+Høyland, Bjørn and Martin Søyland. 2019. [Electoral Reform and Parliamentary Debates.](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12237). _Legislative Studies Quarterly_.
+
+::: {.callout-tip collapse="true"}
+## Abstract
+
+The early twentieth century saw many democracies adopt proportional representative systems. The textbook explanation, pioneered by Rokkan, emphasize between-party electoral competition; the rise of the Socialist vote share made Bourgeois parties prefer PR systems to maximize their seat share. While appealing, this account is not entirely compelling. Consequently, scholars are investigating within-party explanations of support for such reforms. Particularly, Cox, Fiva, and Smith show how list PR enable party leaders to discipline members and build cohesive parties. Relying on roll-call votes across the Norwegian 1919 electoral reform from two-round single-member plurality to closed-list PR, they show that the internal party cohesion increased following the reform. We investigate how the Norwegian electoral reform changed the content of parliamentary speeches. Comparing speeches from MPs present both before and after the reform, we show how parties become more cohesive in parliamentary debates under list PR than they were under the single-member-district system.
+
+:::
+
+<hr>
+
+Lapponi, Emanuele, Martin Søyland, Erik Velldal, and Stephan Oepen. 2018. [The Talk of Norway: a richly annotated corpus of the Norwegian parliament, 1998–2016.](https://link.springer.com/article/10.1007/s10579-018-9411-5). _Language Resources and Evaluation_.
+
+::: {.callout-tip collapse="true"}
+## Abstract
+
+In this work we present the Talk of Norway (ToN) data set, a collection of Norwegian Parliament speeches from 1998 to 2016. Every speech is richly annotated with metadata harvested from different sources, and augmented with language type, sentence, token, lemma, part-of-speech, and morphological feature annotations. We also present a pilot study on party classification in the Norwegian Parliament, carried out in the context of a cross-faculty collaboration involving researchers from both Political Science and Computer Science. Our initial experiments demonstrate how the linguistic and institutional annotations in ToN can be used to gather insights on how different aspects of the political process affect classification. 
+
+:::
+
+<hr>
+
+Søyland, Martin. 2017. [Survival of the Ministers: On Ministerial Durability in Postwar Norway](http://onlinelibrary.wiley.com/doi/10.1111/1467-9477.12086/abstract). _Scandinavian Political Studies_.
+
+::: {.callout-tip collapse="true"}
+## Abstract
+
+The field of ministerial durability, showing why some ministers are dismissed and others not, has increased in size over the last decade. Specifically, linking ministerial performance through resignation calls with durability has been applied to both majoritarian and semi-presidential systems, whereas this link is less explored in consensual electoral systems. Thus, this study explores the relationship between ministerial performance and durability in postwar Norway, drawing on the principal-agent theory for parliamentary democracies and the accountability link between party leaders and ministers. The main finding is that there are many similarities to other studies’ ministerial durability and performance. By measuring performance in resignation calls coming through the media, it is found that ministerial durability is decreased when performance is low: the more resignation calls a minister gets, the more likely the minister is to be removed by the party leader. Consequently, it is argued that ministers generally are held accountable by their party leaders whenever they are perceived to perform badly. Even though it is argued in the article that studies on ministerial durability and performance would benefit from alternative performance measures, the analysis shows that resignation calls give a good indication of how party leaders hold ministers accountable.
+
+:::
+
+<hr>
+
+Søyland, Martin. 2015. [Tilbakeholden og ekspansiv liberalisme: - Om utenrikspolitikk i State of the Union-tale](https://www.scup.com/doi/10.18261/ISSN1891-1757-2015-01-02). _Internasjonal Politikk_. 
+
+::: {.callout-tip collapse="true"}
+## Abstract
+
+Amerikanske presidenters balansering mellom ulike liberale verdier basert på enten involvering eller beherskelse har store implikasjoner for utformingen av utenrikspolitikken. I denne artikkelen viser jeg, gjennom tekstanalytiske metoder, hvordan amerikanske presidenter vektlegger de to tradisjonene 'tilbakeholden' og 'ekspansiv' liberalisme i sine State of the Union-taler. Tilnærmingen er todelt: først kartlegger jeg synet på utenrikspolitikk gjennom innholdsanalyse. Deretter brukes idéanalyse for å vise hvilke av de to liberalismetypene seks av presidentene artikulerer. Funnene indikerer at det har skjedd en dreining fra en balansert tilnærming mot mer overvekt på ekspansive idéer. Denne dreiningen knyttes opp mot de kollektive tradisjonene først skissert i Monroe-doktrinen og i "Roosevelt corollary".
+
+:::
+
+<hr>
 
 Co-authors:
 

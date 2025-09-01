@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -417,41 +446,205 @@ ul.task-list li input[type="checkbox"] {
     object-fit: cover;
   }
 </style>
-<p>2024:</p>
-<ul>
-<li><a href="https://onlinelibrary.wiley.com/doi/10.1111/lsq.12474">The Drama is in the Ink: Conflict in Written Parliamentary Questions.</a>. (Co-authored with Solveig Bjørkholt)<br></li>
-<li><a href="./papers/chap19_20240605.pdf">Legislative Party Cohesion and Discipline. Forthcoming in <em>Oxford Handbook of Norwegian Politics</em>.</a> (Co-authored with Oda Nedregård, preprint)</li>
-</ul>
-<p>2023:</p>
-<ul>
-<li><a href="https://www.regjeringen.no/no/dokumenter/tilstandsanalyse-av-det-norske-demokratiet/id2991191/">Tilstandsanalyse av det norske demokratiet.</a> (Government white paper)</li>
-</ul>
-<p>2022:</p>
-<ul>
-<li><a href="http://ceur-ws.org/Vol-3133/paper07.pdf">Party Control and Responsiveness: How MPs Use Variation in Lower-Level Institutional Design as an Electoral Responsiveness Mechanism.</a></li>
-</ul>
-<p>2021:</p>
-<ul>
-<li><a href="https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198849063.001.0001/oso-9780198849063-chapter-31">Committee-Membership Matters, Party Loyalty Decides in <em>The Politics of Legislative Debates (Hanna Back, Marc Debus, and Jorge M. Fernandes)</em>.</a> (Co-authored with Bjørn Høyland)<br></li>
-<li><a href="https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12415">Climate politics in har times: How local economic shocks influence MPs attention to climate change.</a> (Co-authored with Henning Finseraas and Bjørn Høyland)</li>
-</ul>
-<p>2019:</p>
-<ul>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0261379418303548">Is all PR good PR? How the content of media exposure affects candidate popularity.</a> (Co-authored with Haakon Gjerløw and Peter Egge Langsæther)<br></li>
-<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12237">Electoral Reform and Parliamentary Debates.</a> (Co-authored with Bjørn Høyland)</li>
-</ul>
-<p>2018:</p>
-<ul>
-<li><a href="https://link.springer.com/article/10.1007/s10579-018-9411-5">The Talk of Norway: a richly annotated corpus of the Norwegian parliament, 1998–2016.</a> (Co-authored with Emanuele Lapponi, Erik Velldal, and Stephan Oepen)</li>
-</ul>
-<p>2017:</p>
-<ul>
-<li><a href="http://onlinelibrary.wiley.com/doi/10.1111/1467-9477.12086/abstract">Survival of the Ministers: On Ministerial Durability in Postwar Norway (2017)</a></li>
-</ul>
-<p>2015:</p>
-<ul>
-<li><a href="https://www.idunn.no/ip/2015/01/tilbakeholden_og_ekspansiv_liberalisme_-_om_utenrikspoliti">Tilbakeholden og ekspansiv liberalisme: - Om utenrikspolitikk i State of the Union-taler (2015)</a></li>
-</ul>
+<p>Nedregård, Oda and Martin Søyland. 2025. <a href="./papers/chap19_20240605.pdf">Legislative Party Cohesion and Discipline. Forthcoming in <em>Oxford Handbook of Norwegian Politics</em>.</a></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Abstract
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>This chapter explores intraparty cohesion in the Norwegian parliament through voting and debates. It asks how cohesive parties are, in which settings, and the what disciplinary tools parties have at their disposal in parliament. By defining cohesion as observable unity of party groups, the chapter starts by discussing what incentives MPs have to dissent from the party in the first place and when party leaders might be expected to allow such dissent. Further, the chapter outlines the anatomy of parliamentary party groups in context of the Norwegian electoral system, the formal rules guiding parties in parliament, intraparty rules and structure, and the important role committees in Stortinget. Further, the chapter reviews, corroborates, and extends the findings of previous research in the Norwegian parliament by analyzing cohesion in voting and parliamentary debates. The main conclusion is that party cohesion is high, but also that MP discretion is contingent on the arena in which the MP participates.</p>
+</div>
+</div>
+</div>
+<hr>
+<p>Bjørkholt, Solveig and Martin Søyland. 2024. <a href="https://onlinelibrary.wiley.com/doi/10.1111/lsq.12474">The Drama is in the Ink: Conflict in Written Parliamentary Questions.</a>. <em>Legislative Studies Quarterly</em></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Abstract
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Opposition is a core component of any democracy, yet it is scarcely studied. Leaning on research prescribing blurred lines between government and opposition in parliamentary democracies, we use word embeddings in tandem with sentiment analysis on written parliamentary questions in the Norwegian parliament to study conflict patterns between the government and opposition. Our findings consistently show that MPs of governing parties are more negative than MPs of the opposition. However, the effect is reduced considerably when the topical content of the question is included in the analysis. We attribute our finding to the existence of a participation threshold in parliamentary questions; MPs of governing parties will only ask questions whenever a given issue is sufficiently contentious.</p>
+</div>
+</div>
+</div>
+<hr>
+<p>Knutsen, Carl Henrik, Sirianne Dahlum, Elin Haugsgjerd Allern, Sara Bjønness Hagfors, Jan Erling Klausen, Martin Søyland and Tore Wig. 2023. <a href="https://www.regjeringen.no/no/dokumenter/tilstandsanalyse-av-det-norske-demokratiet/id2991191/">The Assessment of the State of Norwegian Democracy</a> (Government white paper)</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Abstract
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>The status analysis was commissioned by the Ministry of Local Government and Regional Development and conducted by researchers at the University of Oslo.</p>
+<p>Democracy is measured broadly, based on five different democratic dimensions that cover all aspects of a democracy. Furthermore, the analysis encompasses all levels—national, regional, and local. The researchers have also developed democracy indicators that are better suited to highlighting strengths and vulnerabilities in high-quality democracies, such as the Nordic countries, compared to existing measures.</p>
+</div>
+</div>
+</div>
+<hr>
+<p>Søyland, Martin. 2022. <a href="http://ceur-ws.org/Vol-3133/paper07.pdf">Party Control and Responsiveness: How MPs Use Variation in Lower-Level Institutional Design as an Electoral Responsiveness Mechanism</a>. (Conference Proceedings)</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Abstract
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Different parliamentary activities allow Members of Parliament (MPs) varying amounts of autonomy. Previous studies have shown that, in parliamentary systems with strong parties and party-centered electoral rules, MPs have limited room for crossing the party line in the legislature both in voting and speech. Further, party-centered systems limit MP’s ability to address electoral concerns of their constituency; they are less responsive. In this paper, I combine these findings by showing that even within system variation in party control over institutions affects the levels of responsiveness in parliamentary questions. By linking MP’s constituency mentions with different types of questions, my results show that the institutional design in the Norwegian Storting affects the level of MP constituency signaling. Specifically, I show that questions with low levels of party control and public attention (written questions and question time) give MPs far more opportunity to raise constituency specific issues than the more party controlled activities (interpellations and question hours). Consequently, I argue that responsiveness does not disappear in party-centered systems; it is located at lower-level institutions. Particularly, some types of questions, where shirking from the party line is less consequential and the party organizations have less control over its members, allow for constituency signaling.</p>
+</div>
+</div>
+</div>
+<hr>
+<p>Søyland, Martin and Bjørn Høyland. 2021. <a href="https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198849063.001.0001/oso-9780198849063-chapter-31">Committee-Membership Matters, Party Loyalty Decides in <em>The Politics of Legislative Debates (Hanna Back, Marc Debus, and Jorge M. Fernandes)</em></a></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Abstract
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>In this chapter, we describe the institutional setting of parliamentary debate in Stortinget and identify correlates of speech participation, drawing on a dataset of more than a quarter of a million speeches from 1998 to 2016. The key correlate of speech participation is committee membership in the committee responsible for preparing the report for the topic under discussion. However, that is not the whole story. Party elites speak more than backbenchers. As speaking time is allocated proportional to party size, MPs from the smaller parties speak more often than their counterparts in the larger parties. While we uncover a gender difference in the overall allocation of speeches, this is only present amongst parties on the right of the political spectrum. We do not find a similar difference in length of speech or allocation of speeches amongst members within the same committee. Hence, we ascribe the gender difference in speeches to gender differences in committee composition.</p>
+</div>
+</div>
+</div>
+<hr>
+<p>Finseraas, Henning, Bjørn Høyland, and Martin Søyland. 2021. <a href="https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12415">Climate politics in hard times: How local economic shocks influence MPs attention to climate change</a>. <em>European Journal of Political Research</em></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Abstract
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Most countries struggle to implement <span class="math inline">\(CO^2\)</span> reducing policies. Implementation is politically difficult since it typically forces politicians to trade-off different concerns. The literature on how parties and members of parliament (MPs) handle these trade-offs is sparse. We use structural topic models to study how MPs in an oil dependent environment responded to a shock in the oil price that created spatially concentrated costs of climate policies. We leverage the rapid oil price drop between parliamentary sessions and MPs’ constituency adherence in a difference-in-differences framework to identify if MPs respond differently to variation in the salience of trade-offs. We find that MPs facing high political costs of climate policies tried to avoid environmental topics, while less affected MPs talked more about investments in green energy when the oil price declined. Our results suggest that the oil price bust created a ‘window of opportunity’ for advocates of the ‘green shift’.</p>
+</div>
+</div>
+</div>
+<hr>
+<p>Lansæther, Peter Egge, Haakon Gjerløw and Martin Søyland. 2019. <a href="https://www.sciencedirect.com/science/article/pii/S0261379418303548">Is all PR good PR? How the content of media exposure affects candidate popularity.</a>. <em>Electoral Studies</em>.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Abstract
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-7" class="callout-7-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Existing evidence shows that media exposure is associated with increased political popularity, but we know less about how the electoral effects of media coverage may vary with the content of the coverage. By collecting hundreds of thousands of media articles, which we then sort by content using automatic topic modelling, we build a unique dataset of political candidates, their popularity, and the quantity and type of media exposure that candidates receive. Analysing this dataset, we find that media attention is, indeed, an electoral asset. Further, and crucially, we find that voters reward politicians for politically relevant exposure, while non-political exposure is ignored, or even penalised. Consequently, this is good news for how democracies work; voters hold politicians accountable based on relevant information. The findings are of relevance to students of media, political behaviour, parties and political competition, as well as normative democratic theory.</p>
+</div>
+</div>
+</div>
+<hr>
+<p>Høyland, Bjørn and Martin Søyland. 2019. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12237">Electoral Reform and Parliamentary Debates.</a>. <em>Legislative Studies Quarterly</em>.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-8-contents" aria-controls="callout-8" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Abstract
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-8" class="callout-8-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>The early twentieth century saw many democracies adopt proportional representative systems. The textbook explanation, pioneered by Rokkan, emphasize between-party electoral competition; the rise of the Socialist vote share made Bourgeois parties prefer PR systems to maximize their seat share. While appealing, this account is not entirely compelling. Consequently, scholars are investigating within-party explanations of support for such reforms. Particularly, Cox, Fiva, and Smith show how list PR enable party leaders to discipline members and build cohesive parties. Relying on roll-call votes across the Norwegian 1919 electoral reform from two-round single-member plurality to closed-list PR, they show that the internal party cohesion increased following the reform. We investigate how the Norwegian electoral reform changed the content of parliamentary speeches. Comparing speeches from MPs present both before and after the reform, we show how parties become more cohesive in parliamentary debates under list PR than they were under the single-member-district system.</p>
+</div>
+</div>
+</div>
+<hr>
+<p>Lapponi, Emanuele, Martin Søyland, Erik Velldal, and Stephan Oepen. 2018. <a href="https://link.springer.com/article/10.1007/s10579-018-9411-5">The Talk of Norway: a richly annotated corpus of the Norwegian parliament, 1998–2016.</a>. <em>Language Resources and Evaluation</em>.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-9-contents" aria-controls="callout-9" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Abstract
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-9" class="callout-9-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>In this work we present the Talk of Norway (ToN) data set, a collection of Norwegian Parliament speeches from 1998 to 2016. Every speech is richly annotated with metadata harvested from different sources, and augmented with language type, sentence, token, lemma, part-of-speech, and morphological feature annotations. We also present a pilot study on party classification in the Norwegian Parliament, carried out in the context of a cross-faculty collaboration involving researchers from both Political Science and Computer Science. Our initial experiments demonstrate how the linguistic and institutional annotations in ToN can be used to gather insights on how different aspects of the political process affect classification.</p>
+</div>
+</div>
+</div>
+<hr>
+<p>Søyland, Martin. 2017. <a href="http://onlinelibrary.wiley.com/doi/10.1111/1467-9477.12086/abstract">Survival of the Ministers: On Ministerial Durability in Postwar Norway</a>. <em>Scandinavian Political Studies</em>.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-10-contents" aria-controls="callout-10" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Abstract
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-10" class="callout-10-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>The field of ministerial durability, showing why some ministers are dismissed and others not, has increased in size over the last decade. Specifically, linking ministerial performance through resignation calls with durability has been applied to both majoritarian and semi-presidential systems, whereas this link is less explored in consensual electoral systems. Thus, this study explores the relationship between ministerial performance and durability in postwar Norway, drawing on the principal-agent theory for parliamentary democracies and the accountability link between party leaders and ministers. The main finding is that there are many similarities to other studies’ ministerial durability and performance. By measuring performance in resignation calls coming through the media, it is found that ministerial durability is decreased when performance is low: the more resignation calls a minister gets, the more likely the minister is to be removed by the party leader. Consequently, it is argued that ministers generally are held accountable by their party leaders whenever they are perceived to perform badly. Even though it is argued in the article that studies on ministerial durability and performance would benefit from alternative performance measures, the analysis shows that resignation calls give a good indication of how party leaders hold ministers accountable.</p>
+</div>
+</div>
+</div>
+<hr>
+<p>Søyland, Martin. 2015. <a href="https://www.scup.com/doi/10.18261/ISSN1891-1757-2015-01-02">Tilbakeholden og ekspansiv liberalisme: - Om utenrikspolitikk i State of the Union-tale</a>. <em>Internasjonal Politikk</em>.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-11-contents" aria-controls="callout-11" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Abstract
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-11" class="callout-11-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Amerikanske presidenters balansering mellom ulike liberale verdier basert på enten involvering eller beherskelse har store implikasjoner for utformingen av utenrikspolitikken. I denne artikkelen viser jeg, gjennom tekstanalytiske metoder, hvordan amerikanske presidenter vektlegger de to tradisjonene ‘tilbakeholden’ og ‘ekspansiv’ liberalisme i sine State of the Union-taler. Tilnærmingen er todelt: først kartlegger jeg synet på utenrikspolitikk gjennom innholdsanalyse. Deretter brukes idéanalyse for å vise hvilke av de to liberalismetypene seks av presidentene artikulerer. Funnene indikerer at det har skjedd en dreining fra en balansert tilnærming mot mer overvekt på ekspansive idéer. Denne dreiningen knyttes opp mot de kollektive tradisjonene først skissert i Monroe-doktrinen og i “Roosevelt corollary”.</p>
+</div>
+</div>
+</div>
+<hr>
 <p>Co-authors:</p>
 <p><a href="https://scholar.google.no/citations?user=mE1cBuIAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=mE1cBuIAAAAJ&amp;citpid=1" title="Elin Haugsgjerd Allern" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=CntWUTIAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=CntWUTIAAAAJ&amp;citpid=1" title="Solveig Bjørkholt" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=P1EAQzIAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=P1EAQzIAAAAJ&amp;citpid=1" title="Sirianne Dahlum" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=v2IK8CkAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=v2IK8CkAAAAJ&amp;citpid=1" title="Henning Finseraas" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=DSU-yuMAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=DSU-yuMAAAAJ&amp;citpid=1" title="Haakon Gjerløw" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=LKrqoSgAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=LKrqoSgAAAAJ&amp;citpid=1" title="Bjørn Høyland" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=yWLpB2YAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=yWLpB2YAAAAJ&amp;citpid=1" title="Jan Erling Klausen" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=tYXnTAgAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=tYXnTAgAAAAJ&amp;citpid=1" title="Carl Henrik Knutsen" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=EnmGAG8AAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=EnmGAG8AAAAJ&amp;citpid=1" title="Peter Egge Langsæther" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=fOIO08sAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=fOIO08sAAAAJ&amp;citpid=1" title="Emanuele Lapponi" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=7HrD6BgAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=7HrD6BgAAAAJ&amp;citpid=1" title="Oda Nedregård" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=0lUHSdEAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=0lUHSdEAAAAJ&amp;citpid=1" title="Stephan Oepen" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=lbQyqGoAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=lbQyqGoAAAAJ&amp;citpid=1" title="Erik Velldal" class="circle-img"></a> <a href="https://scholar.google.no/citations?user=-VZ9_fAAAAAJ&amp;hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&amp;user=-VZ9_fAAAAAJ&amp;citpid=1" title="Tore Wig" class="circle-img"></a></p>
 
