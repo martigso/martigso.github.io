@@ -19,7 +19,7 @@ glue::glue("{mortar_board} {position}
            department_store = emo::ji("department_store"),
            cityscape = emo::ji("cityscape"),
            email = emo::ji("email"),
-           emaillink = "[martin.soyland@uis.no](mailto:martin.soyland@uio.no)\n")
+           emaillink = "[martin.soyland@uio.no](mailto:martin.soyland@uio.no)\n")
 ```
 
 
