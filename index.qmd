@@ -12,14 +12,14 @@ glue::glue("{mortar_board} {position}
            {department_store} {department}
            {cityscape} {employer}
            {email} {emaillink}",
-           position = "Associate Professor\n",
-           employer = "University of Stavanger\n",
-           department = "Department of Media and Social Sciences\n",
+           position = "Researcher\n",
+           employer = "University of Oslo\n",
+           department = "Department of political science\n",
            mortar_board = emo::ji("mortar_board"),
            department_store = emo::ji("department_store"),
            cityscape = emo::ji("cityscape"),
            email = emo::ji("email"),
-           emaillink = "[martin.soyland@uis.no](mailto:martin.soyland@uis.no)\n")
+           emaillink = "[martin.soyland@uis.no](mailto:martin.soyland@uio.no)\n")
 ```
 
 
