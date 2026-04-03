@@ -19,34 +19,130 @@ glue::glue("{mortar_board} {position}
            department_store = emo::ji("department_store"),
            cityscape = emo::ji("cityscape"),
            email = emo::ji("email"),
-           emaillink = "[martin.soyland@uio.no](mailto:martin.soyland@uio.no)\n")
+           emaillink = "[martin.soyland@stv.uio.no](mailto:martin.soyland@uio.no)\n")
 ```
 
+`r emo::ji("scroll")` [Complete CV here!](./cv/soyland_cv.pdf)
 
-
-
-# Latest publications
 ```{r}
 #| echo: false
+#| results: asis
+
 library(httr2)
 
-pubs <- request("https://api.cristin.no/v2/results?contributor=619119") |> 
-  req_perform()
+pubs_cache <- "pubs_cache.rds"
+if (file.exists(pubs_cache) && difftime(Sys.time(), file.mtime(pubs_cache), units = "hours") < 24) {
+  pubs_raw <- readRDS(pubs_cache)
+} else {
+  pubs_raw <- request("https://api.nva.unit.no/search/resources?contributor=619119&size=50") |>
+    req_perform() |>
+    resp_body_json(simplifyVector = FALSE)
+  saveRDS(pubs_raw, pubs_cache)
+}
 
-pubs_df <- resp_body_json(pubs, simplifyVector = TRUE)
-pubs_clean <- data.frame(Title     = ifelse(is.na(pubs_df$title$nb), pubs_df$title$en, pubs_df$title$nb),
-                         Publisher = ifelse(is.na(pubs_df$journal$name) == FALSE, pubs_df$journal$name,
-                                            ifelse(is.na(pubs_df$publisher$name) == FALSE, pubs_df$publisher$name,
-                                                   pubs_df$channel$title)),
-                         Year = pubs_df$year_published,
-                         Authors = sapply(pubs_df$contributors$preview, \(x) paste0(gsub(" G\\.", "", x$first_name), " ", x$surname, collapse = ", ")))
+type_colors <- list(
+  AcademicArticle   = "#E39F0B",
+  AcademicChapter   = "#009970",
+  ReportResearch    = "#b7bdf7",
+  MediaInterview    = "#0095A8",
+  Lecture           = "#F0F1EB",
+  OtherPresentation = "#F0F1EB"
+)
 
-pubs_clean <- pubs_clean[order(pubs_clean$Year, decreasing = TRUE), ]
+type_labels <- list(
+  AcademicArticle   = "Article",
+  AcademicChapter   = "Chapter",
+  ReportResearch    = "Report",
+  MediaInterview    = "Media",
+  Lecture           = "Lecture",
+  OtherPresentation = "Panel"
+)
 
-kableExtra::kable(pubs_clean[1:5, ], 
-                  booktabs = TRUE,
-                  row.names = FALSE)
+get_venue <- function(ctx) {
+  switch(ctx$type %||% "",
+    Journal           = ctx$name                          %||% NA_character_,
+    Report            = ctx$publisher$name                %||% NA_character_,
+    Anthology         = ctx$entityDescription$mainTitle   %||% NA_character_,
+    Event             = ctx$name                          %||% NA_character_,
+    MediaContribution = ctx$disseminationChannel          %||% NA_character_,
+    NA_character_
+  )
+}
 
+html_esc <- function(s) {
+  if (is.null(s) || is.na(s)) return("")
+  s <- gsub("&", "&amp;", s, fixed = TRUE)
+  s <- gsub("<", "&lt;",  s, fixed = TRUE)
+  s <- gsub(">", "&gt;",  s, fixed = TRUE)
+  s <- gsub('"', "&quot;", s, fixed = TRUE)
+  s
+}
+
+pubs <- lapply(pubs_raw$hits, function(hit) {
+  ed  <- hit$entityDescription
+  ref <- ed$reference
+  list(
+    title   = ed$mainTitle                        %||% NA_character_,
+    year    = ed$publicationDate$year             %||% NA_character_,
+    type    = ref$publicationInstance$type        %||% NA_character_,
+    venue   = get_venue(ref$publicationContext),
+    authors = paste(sapply(ed$contributorsPreview, function(c) c$identity$name %||% NA_character_), collapse = ", "),
+    url     = hit$entityDescription$reference$doi %||% NA_character_
+  )
+})
+
+pubs <- pubs[order(sapply(pubs, function(p) as.integer(p$year %||% "0")), decreasing = TRUE)]
+
+make_hex <- function(pub, i) {
+  color <- type_colors[[pub$type]] %||% "#B8B8B8"
+  lbl   <- type_labels[[pub$type]] %||% gsub("([a-z])([A-Z])", "\\1 \\2", pub$type) %||% NA_character_
+  pos   <- if (i %% 2 == 1) "up" else "down"
+
+  venue_str   <- if (is.na(pub$venue)) "" else html_esc(pub$venue)
+  tooltip_str <- html_esc(paste0(
+    pub$title, " \u2014 ", pub$authors,
+    if (!is.na(pub$venue)) paste0(" \u2014 ", pub$venue) else ""
+  ))
+
+  meta <- paste0(
+    '<span class="hex-pub-title">', html_esc(pub$title), '</span>',
+    '<span class="hex-pub-venue">', venue_str, '</span>'
+  )
+
+  top_label <- if (pos == "up") {
+    paste0('<div class="hex-label hex-label-top">', meta, '</div>')
+  } else {
+    '<div class="hex-label hex-label-top"></div>'
+  }
+
+  bottom_label <- if (pos == "down") {
+    paste0('<div class="hex-label hex-label-bottom">', meta, '</div>')
+  } else {
+    '<div class="hex-label hex-label-bottom"></div>'
+  }
+
+  hex_shape <- paste0(
+    '<div class="hex-shape" style="background-color:', color, '" title="', tooltip_str, '">',
+    '<div class="hex-content">',
+    '<span class="hex-year">', html_esc(pub$year %||% ""), '</span>',
+    '<span class="hex-type">', html_esc(lbl), '</span>',
+    '</div></div>'
+  )
+
+  hex_shape <- if (!is.na(pub$url)) {
+    paste0('<a href="', pub$url, '" target="_blank" rel="noopener">', hex_shape, '</a>')
+  } else {
+    hex_shape
+  }
+
+  paste0('<div class="hex-item hex-', pos, '">', top_label, hex_shape, bottom_label, '</div>')
+}
+
+hex_items <- mapply(make_hex, pubs, seq_along(pubs), SIMPLIFY = TRUE)
+
+cat('<div class="hex-timeline-outer">\n<div class="hex-timeline">\n')
+cat(paste(hex_items, collapse = "\n"))
+cat('\n</div>\n</div>\n')
 ```
 
 <!-- # CV
