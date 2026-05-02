@@ -9,7 +9,7 @@
 <link>https://martigso.github.io/blog.html</link>
 <atom:link href="https://martigso.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.8.27</generator>
+<generator>quarto-1.9.36</generator>
 <lastBuildDate>Sun, 27 Jul 2025 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Også vi må være på vakt</title>
@@ -92,26 +92,6 @@
   <pubDate>Wed, 29 Jan 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Erna Solberg kom oftare til Stortinget enn Jonas Gahr Støre</title>
-  <link>https://martigso.github.io/posts/nrk20240529/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><a href="https://www.nrk.no/vestland/erna-solberg-kom-oftare-til-stortinget-enn-jonas-gahr-store-1.16900456">Erna Solberg kom oftare til Stortinget enn Jonas Gahr Støre!</a></p>
-
-
-
- ]]></description>
-  <category>norsk politikk</category>
-  <category>demokrati</category>
-  <category>institusjoner</category>
-  <guid>https://martigso.github.io/posts/nrk20240529/</guid>
-  <pubDate>Tue, 28 May 2024 22:00:00 GMT</pubDate>
-</item>
-<item>
   <title>Forskere fikk meldeplikt, men alle kildene var døde</title>
   <link>https://martigso.github.io/posts/krono20220213/</link>
   <description><![CDATA[ 
@@ -129,6 +109,26 @@
   <category>personvern</category>
   <category>stortinget</category>
   <guid>https://martigso.github.io/posts/krono20220213/</guid>
+  <pubDate>Tue, 28 May 2024 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Erna Solberg kom oftare til Stortinget enn Jonas Gahr Støre</title>
+  <link>https://martigso.github.io/posts/nrk20240529/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.nrk.no/vestland/erna-solberg-kom-oftare-til-stortinget-enn-jonas-gahr-store-1.16900456">Erna Solberg kom oftare til Stortinget enn Jonas Gahr Støre!</a></p>
+
+
+
+ ]]></description>
+  <category>norsk politikk</category>
+  <category>demokrati</category>
+  <category>institusjoner</category>
+  <guid>https://martigso.github.io/posts/nrk20240529/</guid>
   <pubDate>Tue, 28 May 2024 22:00:00 GMT</pubDate>
 </item>
 <item>
