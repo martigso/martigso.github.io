@@ -81,13 +81,17 @@ html_esc <- function(s) {
 pubs <- lapply(pubs_raw$hits, function(hit) {
   ed  <- hit$entityDescription
   ref <- ed$reference
+  doi <- ref$doi %||% NA_character_
+  nva_url <- if (!is.null(hit$identifier)) {
+    paste0("https://nva.sikt.no/registration/", hit$identifier)
+  } else NA_character_
   list(
     title   = ed$mainTitle                        %||% NA_character_,
     year    = ed$publicationDate$year             %||% NA_character_,
     type    = ref$publicationInstance$type        %||% NA_character_,
     venue   = get_venue(ref$publicationContext),
     authors = paste(sapply(ed$contributorsPreview, function(c) c$identity$name %||% NA_character_), collapse = ", "),
-    url     = hit$entityDescription$reference$doi %||% NA_character_
+    url     = if (!is.na(doi)) doi else nva_url
   )
 })
 
