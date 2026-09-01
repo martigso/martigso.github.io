@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Homepage"
+  title: "Home"
   site-url: https://martigso.github.io/
   favicon: favicon.ico
   page-navigation: false
