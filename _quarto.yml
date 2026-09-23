@@ -58,7 +58,6 @@ website:
         menu: 
           - text: LinkedIn
             url: https://www.linkedin.com/in/martin-søyland-7817304b
-        
 format:
   html:
     email-obfuscation: javascript
