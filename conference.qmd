@@ -17,7 +17,7 @@ MP's participation in nonlegislative activities is considerable in parliaments a
 
 **Djuve, Vilde L. and Martin Søyland (2025)**. [_Patterns of Global Politics: Geopolitical Entity Networks in the UN General Assembly_](/papers/patterns.pdf). 
 
-[Presented at:]{.neuorange} APSA 2024, Comparative Institutions and Regimes seminar at the University of Oslo.
+[Presented at:]{.neuorange} APSA 2024, Comparative Institutions and Regimes seminar at the University of Oslo, Norwegian Political Science Association (2024), and University of Stavanger (2024).
 
 ::: {.callout-tip collapse="true"}
 ## Abstract:
@@ -39,7 +39,7 @@ The global Sustainable Development Goals (SDGs) have affected international and 
 
 **Hjorth, Frederik, Tore Wig, Eli S. Baltzersen, and Martin Søyland (2025)**. _The Political Origins of Critical Social Science_.
 
-[Presented at:]{.neuorange} EPSA (2025), Department of political science at the University of Oslo (upcoming).
+[Presented at:]{.neuorange} EPSA (2025), Lund University (2025), and Department of political science at the University of Oslo (2025).
 
 ::: {.callout-tip collapse="true"}
 ## Abstract:
@@ -52,7 +52,7 @@ The interface between social science theories and politics is rarely studied sys
 
 **Knutsen, C. H., Dahlum, S., Allern, E., Klausen, J. E., Søyland, M., and Wig, T. (2025)**. _Far from perfect? A template for measuring regime developments in very democratic countries_
 
-[Presented at:]{.neuorange} EPSA (2025)
+[Presented at:]{.neuorange} EPSA (2025), Norwegian Political Science Association (2026), and Department of political science at the University of Oslo (2026)
 
 ::: {.callout-tip collapse="true"}
 ## Abstract:
@@ -62,27 +62,20 @@ Few social science concepts have been scrutinized as carefully as "democracy", a
 
 <hr>
 
+**Kristiansen, Ina Lyftingsmo, Martin Søyland and Gunnar Thesen (2026)**. _All eyes on m(e)inisters: democratization and media scrutiny_.
+
+[Presented at:]{.neuorange} WhoGov Mini-Conference on Political Elites, University of Oslo (2026)
+
+<hr>
+
 **Røed, Maiken and Martin Søyland (2025)**. _Trade Union Appeals in Legislative Debates_. 
 
-[Presented at:]{.neuorange} EPSA (2024), Department of political science at the University of Oslo (2025)
+[Presented at:]{.neuorange} EPSA (2024), Department of political science at the University of Oslo (2025), Norwegian Political Science Association (2025)
 
 ::: {.callout-tip collapse="true"}
 ## Abstract:
 
 Legislators are important intermediaries in democracies. To signal that they work to represent certain interests, they may associate themselves with or dissociate themselves from groups. We study when legislators use such appeals to another important intermediary: trade unions. We argue that trade union appeals can be a direct and indirect vote-seeking strategy to mobilise voters and the trade unions themselves. We expect that legislators' use of appeals partly depends on their party affiliation. Within parties, we moreover hypothesise that trade union sponsorships and electoral vulnerability matter. To test these expectations, we construct a new and rich dataset on legislators' union appeals in close to three million speeches in the UK House of Commons between 1950 and 2019. We find partisan patterns and significant intra-party variation. These findings contribute to a better understanding of legislators' electoral strategies and how representation works in legislatures. 
-
-:::
-
-<hr>
-
-**Røed, Maiken and Martin Søyland (2025)**. _Constituency Representation in the European Parliament and House of Commons_. 
-
-<!-- [Presented at:]{.neuorange} EPSA (2024), Department of political science at the University of Oslo (2025) -->
-
-::: {.callout-tip collapse="true"}
-## Abstract:
-
-What explains legislators' constituency representation in the legislature? We investigate the impact of institutions and legislators' experience on their propensity to talk about their constituency in their legislative speeches. To do this, we look at constituency mentions in speeches by members of the European Parliament (MEPs) from the United Kingdom between 1996 and 2019, and constituency mentions in the speeches former and future MEPs give in the UK House of Commons. In this way, we are able to examine the impact of different electoral systems (FPTP and PR) and legislators' experience from a national or supranational context on their likelihood of representing their constituency.
 
 :::
 
@@ -113,9 +106,9 @@ Big text data has been increasingly used to explain political behavior in all su
 
 <hr>
 
-**Søyland, Martin (2025)**. _Data Reusability in Political Science_. 
+**Søyland, Martin (2025)**. _Enhancing Data Reusability: A Proposal and an Assessment_. 
 
-[Presented at:]{.neuorange} Department of political science at the University of Oslo (2023), Norwegian Political Science Association (2025)
+[Presented at:]{.neuorange} DH-forum at the University of Oslo Library (2022), Department of political science at the University of Oslo (2023), Norwegian Political Science Association (2025)
 
 ::: {.callout-tip collapse="true"}
 ## Abstract:
@@ -127,7 +120,7 @@ Open data has become the rule in large parts of political science publishing. Th
 
 **Søyland, Martin and Thürk, Maria (2025)**. Cross-partisan co-sponsoring in parliamentary systems.
 
-[Presented at:]{.neuorange} EPSA (2025), ECPR Standing Group on Parliaments (2025)
+[Presented at:]{.neuorange} EPSA (2025), ECPR Standing Group on Parliaments (2025), University of Gothenburg (2025), and Comparative Institutions and Regimes seminar at the University of Oslo (2025)
 
 ::: {.callout-tip collapse="true"}
 ## Abstract:
@@ -140,8 +133,6 @@ Co-sponsoring of policy proposals has received limited attention in multi-party 
 
 <!-- Everyday I’m Shoveling: Partisan Resource Allocation During External Shocks STiANSEN, Ø. AND SØYLAND, M. -->
 
-
-<!-- Fokus: Politikk og menneskerettigheter -->
 
 Collaborating authors:
 

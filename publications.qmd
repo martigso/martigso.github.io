@@ -3,6 +3,28 @@ title: "Publications"
 image: pictures/social_card.jpg   # link-preview card; otherwise the first co-author photo is used
 ---
 
+Røed, Maiken and Martin Søyland. Forthcoming. Legislators' Constituency Focus across Electoral Systems. _Legislative Studies Quarterly_.
+
+::: {.callout-tip collapse="true"}
+## Abstract
+
+Previous studies argue that incentives to cultivate a personal reputation and maximize personal votes make legislators more likely to focus on their constituency in candidate-centered than party-centered systems. Empirical analyses, however, have yielded mixed support for this hypothesis. We provide new tests of the relationship between electoral system characteristics and constituency signaling in speeches, holding individual legislators fixed. We examine speeches given by legislators from England, Scotland, and Wales in the European Parliament (EP) and in the UK House of Commons. This allows us to follow the same legislators (1) across an electoral system change in the EP in 1999 and (2) when they move between the EP and the House of Commons. In line with expectations, we find that constituency signaling in speeches is more likely when the same legislators are elected under candidate-centered rules.
+
+:::
+
+<hr>
+
+Thorsen, Dag Einar, Evy Jøsok and Martin Søyland. 2026. Fokus: Politikk og menneskerettigheter. Aschehoug. (Textbook)
+
+::: {.callout-tip collapse="true"}
+## Abstract
+
+Course book for the elective course Politikk og menneskerettigheter in Norwegian upper secondary school.
+
+:::
+
+<hr>
+
 Nedregård, Oda and Martin Søyland. 2025. [Legislative Party Groups in the Storting: Cohesion and Discipline.](https://doi.org/10.1093/oxfordhb/9780198888581.013.0019) In _Oxford Handbook of Norwegian Politics_. ([Preprint PDF](./papers/chap19_20240605.pdf))
 
 ::: {.callout-tip collapse="true"}
