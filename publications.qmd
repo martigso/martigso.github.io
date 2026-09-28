@@ -1,17 +1,9 @@
 ---
 title: "Publications"
+image: pictures/social_card.jpg   # link-preview card; otherwise the first co-author photo is used
 ---
 
-<style>
-  .circle-img {
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    object-fit: cover;
-  }
-</style>
-
-Nedregård, Oda and Martin Søyland. 2025. [Legislative Party Cohesion and Discipline. Forthcoming in *Oxford Handbook of Norwegian Politics*.](./papers/chap19_20240605.pdf)
+Nedregård, Oda and Martin Søyland. 2025. [Legislative Party Groups in the Storting: Cohesion and Discipline.](https://doi.org/10.1093/oxfordhb/9780198888581.013.0019) In _Oxford Handbook of Norwegian Politics_. ([Preprint PDF](./papers/chap19_20240605.pdf))
 
 ::: {.callout-tip collapse="true"}
 ## Abstract
@@ -80,7 +72,7 @@ Most countries struggle to implement $CO^2$ reducing policies. Implementation is
 
 <hr>
 
-Lansæther, Peter Egge, Haakon Gjerløw and Martin Søyland. 2019. [Is all PR good PR? How the content of media exposure affects candidate popularity.](https://www.sciencedirect.com/science/article/pii/S0261379418303548). _Electoral Studies_.
+Langsæther, Peter Egge, Haakon Gjerløw and Martin Søyland. 2019. [Is all PR good PR? How the content of media exposure affects candidate popularity.](https://www.sciencedirect.com/science/article/pii/S0261379418303548). _Electoral Studies_.
 
 ::: {.callout-tip collapse="true"}
 ## Abstract
@@ -137,17 +129,17 @@ Amerikanske presidenters balansering mellom ulike liberale verdier basert på en
 
 Co-authors:
 
-<a href="https://scholar.google.no/citations?user=mE1cBuIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mE1cBuIAAAAJ&citpid=1" title="Elin Haugsgjerd Allern" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=CntWUTIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=CntWUTIAAAAJ&citpid=1" title="Solveig Bjørkholt" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=P1EAQzIAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P1EAQzIAAAAJ&citpid=1" title="Sirianne Dahlum" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=v2IK8CkAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v2IK8CkAAAAJ&citpid=1" title="Henning Finseraas" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=DSU-yuMAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DSU-yuMAAAAJ&citpid=1" title="Haakon Gjerløw" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=LKrqoSgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LKrqoSgAAAAJ&citpid=1" title="Bjørn Høyland" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=yWLpB2YAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yWLpB2YAAAAJ&citpid=1" title="Jan Erling Klausen" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=tYXnTAgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tYXnTAgAAAAJ&citpid=1" title="Carl Henrik Knutsen" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=EnmGAG8AAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EnmGAG8AAAAJ&citpid=1" title="Peter Egge Langsæther" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=fOIO08sAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fOIO08sAAAAJ&citpid=1" title="Emanuele Lapponi" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=7HrD6BgAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7HrD6BgAAAAJ&citpid=1" title="Oda Nedregård" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=0lUHSdEAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0lUHSdEAAAAJ&citpid=1" title="Stephan Oepen" class="circle-img"></a>
-<a href="https://scholar.google.no/citations?user=lbQyqGoAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lbQyqGoAAAAJ&citpid=1" title="Erik Velldal" class="circle-img"/></a>
-<a href="https://scholar.google.no/citations?user=-VZ9_fAAAAAJ&hl=en"><img src="https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-VZ9_fAAAAAJ&citpid=1" title="Tore Wig" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=mE1cBuIAAAAJ&hl=en"><img src="pictures/coauthors/allern_elin.jpg" title="Elin Haugsgjerd Allern" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=CntWUTIAAAAJ&hl=en"><img src="pictures/coauthors/bjorkholt_solveig.jpg" title="Solveig Bjørkholt" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=P1EAQzIAAAAJ&hl=en"><img src="pictures/coauthors/dahlum_sirianne.jpg" title="Sirianne Dahlum" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=v2IK8CkAAAAJ&hl=en"><img src="pictures/coauthors/finseraas_henning.jpg" title="Henning Finseraas" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=DSU-yuMAAAAJ&hl=en"><img src="pictures/coauthors/gjerlow_haakon.jpg" title="Haakon Gjerløw" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=LKrqoSgAAAAJ&hl=en"><img src="pictures/coauthors/hoyland_bjorn.jpg" title="Bjørn Høyland" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=yWLpB2YAAAAJ&hl=en"><img src="pictures/coauthors/klausen_jan_erling.jpg" title="Jan Erling Klausen" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=tYXnTAgAAAAJ&hl=en"><img src="pictures/coauthors/knutsen_carl_henrik.jpg" title="Carl Henrik Knutsen" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=EnmGAG8AAAAJ&hl=en"><img src="pictures/coauthors/langsaether_peter_egge.jpg" title="Peter Egge Langsæther" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=fOIO08sAAAAJ&hl=en"><img src="pictures/coauthors/lapponi_emanuele.jpg" title="Emanuele Lapponi" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=7HrD6BgAAAAJ&hl=en"><img src="pictures/coauthors/nedregard_oda.jpg" title="Oda Nedregård" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=0lUHSdEAAAAJ&hl=en"><img src="pictures/coauthors/oepen_stephan.jpg" title="Stephan Oepen" class="circle-img"></a>
+<a href="https://scholar.google.no/citations?user=lbQyqGoAAAAJ&hl=en"><img src="pictures/coauthors/velldal_erik.jpg" title="Erik Velldal" class="circle-img"/></a>
+<a href="https://scholar.google.no/citations?user=-VZ9_fAAAAAJ&hl=en"><img src="pictures/coauthors/wig_tore.jpg" title="Tore Wig" class="circle-img"/></a>

@@ -1,28 +1,23 @@
 ---
 title: "[Martin Søyland]{.neuorange}"
+pagetitle: "Martin Søyland"
+image: pictures/social_card.jpg   # link-preview card; otherwise the portrait below is used
+from: markdown+emoji
 ---
 
-![](martigso2.png){width=25%}
-    
-```{r}
-#| echo: false
-#| eval: true
-#| results: asis
-glue::glue("{mortar_board} {position}
-           {department_store} {department}
-           {cityscape} {employer}
-           {email} {emaillink}",
-           position = "Researcher\n",
-           employer = "University of Oslo\n",
-           department = "Department of political science\n",
-           mortar_board = emo::ji("mortar_board"),
-           department_store = emo::ji("department_store"),
-           cityscape = emo::ji("cityscape"),
-           email = emo::ji("email"),
-           emaillink = "[martin.soyland@stv.uio.no](mailto:martin.soyland@uio.no)\n")
-```
+![](pictures/martin_soyland_portrait.webp){width=25% fig-alt="Portrait of Martin Søyland"}
 
-`r emo::ji("scroll")` [Complete CV here!](./cv/soyland_cv.pdf)
+:mortar_board: Postdoc
+
+:classical_building: Department of Media and Social Sciences
+
+:cityscape: University of Stavanger
+
+:envelope: [martin.soyland@uis.no](mailto:martin.soyland@uis.no)
+
+:scroll: [Complete CV here!](./cv/soyland_cv.pdf)
+
+## Recent work
 
 ```{r}
 #| echo: false
@@ -30,38 +25,58 @@ glue::glue("{mortar_board} {position}
 
 library(httr2)
 
+nva_url    <- "https://api.nva.unit.no/search/resources?contributor=619119&size=50"
 pubs_cache <- "pubs_cache.rds"
-if (file.exists(pubs_cache) && difftime(Sys.time(), file.mtime(pubs_cache), units = "hours") < 24) {
+cache_is_fresh <- file.exists(pubs_cache) &&
+  difftime(Sys.time(), file.mtime(pubs_cache), units = "hours") < 24
+
+if (cache_is_fresh) {
   pubs_raw <- readRDS(pubs_cache)
 } else {
-  pubs_raw <- request("https://api.nva.unit.no/search/resources?contributor=619119&size=50") |>
-    req_perform() |>
-    resp_body_json(simplifyVector = FALSE)
-  saveRDS(pubs_raw, pubs_cache)
+  # If NVA is down, fall back to the last saved copy instead of failing the render
+  pubs_raw <- tryCatch({
+    fresh_pubs <- request(nva_url) |>
+      req_perform() |>
+      resp_body_json(simplifyVector = FALSE)
+    saveRDS(fresh_pubs, pubs_cache)
+    fresh_pubs
+  }, error = function(err) {
+    if (!file.exists(pubs_cache)) stop(err)
+    warning("NVA API unavailable, using cached publications: ", conditionMessage(err))
+    readRDS(pubs_cache)
+  })
 }
 
 type_colors <- list(
-  AcademicArticle   = "#E39F0B",
-  AcademicChapter   = "#009970",
-  ReportResearch    = "#b7bdf7",
-  MediaInterview    = "#0095A8",
-  Lecture           = "#F0F1EB",
-  OtherPresentation = "#F0F1EB"
+  AcademicArticle     = "#E39F0B",
+  AcademicChapter     = "#009970",
+  Textbook            = "#009970",
+  DegreePhd           = "#009970",
+  ReportResearch      = "#b7bdf7",
+  MediaInterview      = "#0095A8",
+  MediaFeatureArticle = "#0095A8",
+  Lecture             = "#F0F1EB",
+  OtherPresentation   = "#F0F1EB"
 )
 
 type_labels <- list(
-  AcademicArticle   = "Article",
-  AcademicChapter   = "Chapter",
-  ReportResearch    = "Report",
-  MediaInterview    = "Media",
-  Lecture           = "Lecture",
-  OtherPresentation = "Panel"
+  AcademicArticle     = "Article",
+  AcademicChapter     = "Chapter",
+  Textbook            = "Textbook",
+  DegreePhd           = "PhD thesis",
+  ReportResearch      = "Report",
+  MediaInterview      = "Media",
+  MediaFeatureArticle = "Op-ed",
+  Lecture             = "Lecture",
+  OtherPresentation   = "Panel"
 )
 
 get_venue <- function(ctx) {
   switch(ctx$type %||% "",
     Journal           = ctx$name                          %||% NA_character_,
     Report            = ctx$publisher$name                %||% NA_character_,
+    Book              = ctx$publisher$name                %||% NA_character_,
+    Degree            = ctx$publisher$name                %||% NA_character_,
     Anthology         = ctx$entityDescription$mainTitle   %||% NA_character_,
     Event             = ctx$name                          %||% NA_character_,
     MediaContribution = ctx$disseminationChannel          %||% NA_character_,
@@ -104,8 +119,8 @@ make_hex <- function(pub, i) {
 
   venue_str   <- if (is.na(pub$venue)) "" else html_esc(pub$venue)
   tooltip_str <- html_esc(paste0(
-    pub$title, " \u2014 ", pub$authors,
-    if (!is.na(pub$venue)) paste0(" \u2014 ", pub$venue) else ""
+    pub$title, " — ", pub$authors,
+    if (!is.na(pub$venue)) paste0(" — ", pub$venue) else ""
   ))
 
   meta <- paste0(
@@ -148,7 +163,3 @@ cat('<div class="hex-timeline-outer">\n<div class="hex-timeline">\n')
 cat(paste(hex_items, collapse = "\n"))
 cat('\n</div>\n</div>\n')
 ```
-
-<!-- # CV
-
-[View complete academic CV!](/cv/soyland_cv.pdf) -->

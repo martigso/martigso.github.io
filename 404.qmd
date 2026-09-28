@@ -1,0 +1,19 @@
+---
+title: "[Page not found]{.neuorange}"
+toc: false
+---
+
+::: {.hex-timeline-outer}
+::: {.hex-timeline .hex-404}
+<div class="hex-shape" style="background-color:#E39F0B">
+<div class="hex-content">
+<span class="hex-year">404</span>
+<span class="hex-type">Missing</span>
+</div>
+</div>
+:::
+:::
+
+The page you were looking for doesn't exist, or it has moved.
+
+Try the [front page](/) or the menu on the left.

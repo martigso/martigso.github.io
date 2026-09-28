@@ -1,10 +1,12 @@
 ---
 title: "Tur"
 author: "Martin Søyland"
+lang: nn
 date: "2023-12-01"
 categories:
   - lokalpolitikk
-  - time kommune
+  - Time kommune
+  - datasenter
   - norsk politikk
 ---
 

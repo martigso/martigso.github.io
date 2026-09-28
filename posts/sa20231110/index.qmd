@@ -2,9 +2,10 @@
 title: "Freista og forført"
 description: "Leserinnlegg i Stavanger Aftenblad"
 author: "Martin Søyland"
+lang: nn
 date: "2023-11-10"
 categories:
-  - lokal politikk
+  - lokalpolitikk
   - datasenter
   - matjord
 ---

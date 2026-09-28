@@ -3,18 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "Home"
+  title: "Martin Søyland"
+  description: "Political scientist and postdoc at the University of Stavanger. Research, data, R packages, teaching material and op-eds."
   site-url: https://martigso.github.io/
   favicon: favicon.ico
+  image: https://martigso.github.io/pictures/social_card.jpg   # link-preview card
+  open-graph: true
+  twitter-card: true
   page-navigation: false
-  
-  sidebar: 
+
+  sidebar:
+    title: "Home"
     style: floating
     search: false
-    
+
     contents:
       - index.qmd
-      
+
       - section: "Research"
         contents:
           - publications.qmd
@@ -40,24 +45,21 @@ website:
       #       url: https://www.sv.uio.no/isv/english/people/aca/martigso
         
       - icon: github
-        menu:
-          - text: GitHub
-            url: https://github.com/martigso
-      
-      - icon: cloud-sun-fill
-        menu:
-          - text: Bluesky
-            url: https://bsky.app/profile/martigso.bsky.social
-         
+        text: GitHub
+        href: https://github.com/martigso
+
+      - icon: bluesky
+        text: Bluesky
+        href: https://bsky.app/profile/martigso.bsky.social
+
       - icon: mastodon
-        menu:
-          - text: Mastodon
-            url: https://snabelen.no/@lufs
-        
+        text: Mastodon
+        href: https://snabelen.no/@lufs
+        rel: me   # lets Mastodon show this site as verified on the profile
+
       - icon: linkedin
-        menu: 
-          - text: LinkedIn
-            url: https://www.linkedin.com/in/martin-søyland-7817304b
+        text: LinkedIn
+        href: https://www.linkedin.com/in/martin-søyland-7817304b
 format:
   html:
     email-obfuscation: javascript

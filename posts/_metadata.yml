@@ -6,3 +6,6 @@ freeze: auto
 
 # Enable banner style title blocks
 title-block-banner: false
+
+# Posts are in Norwegian bokmål; nynorsk posts override this with `lang: nn`
+lang: nb

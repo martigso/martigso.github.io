@@ -1,6 +1,7 @@
 ---
 title: "Erna Solberg kom oftare til Stortinget enn Jonas Gahr Støre"
 description: "NRK (intervju)"
+lang: nn
 date: "2024-05-29"
 categories:
   - norsk politikk

@@ -1,21 +1,39 @@
 /*-- scss:defaults --*/
-$navbar-bg: #DFDD43;
-$navbar-fg: #000000;
 $theme-cream: #F0F1EB;
-$theme-neuorange: #DCB088;
+$theme-neuorange: #DCB088;          // the original; used on the dark theme
+$theme-neuorange-darker: #A3672C;   // same hue, darker so it stays readable on white
 
 /*-- scss:rules --*/
+// This file is compiled once per theme; use the darker orange when the background is light
+$neuorange-for-this-theme: if(lightness($body-bg) > 50%, $theme-neuorange-darker, $theme-neuorange);
+
 .cream {
     color: $theme-cream;
     font-weight: bold;
 }
 
 .neuorange {
-    color: $theme-neuorange;
+    color: $neuorange-for-this-theme;
     font-weight: bold;
 }
 
+/* --- Co-author photos (publications and ongoing projects) --- */
+.circle-img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+
 /* --- Hex Publication Timeline --- */
+// Labels hang this far above/below each row: the 46px zigzag shift
+// plus up to 5 lines of label text and 10px padding.
+$hex-height: 97px;
+$hex-label-reach: 136px;
+$hex-row-gap: 2 * $hex-label-reach + 78px;   // both rows' labels plus room around the divider line
+$hex-row-pitch: $hex-height + $hex-row-gap;  // distance from the top of one row to the next
+$hex-timeline-padding-top: 140px;
+
 .hex-timeline-outer {
     overflow-x: auto;
     overflow-y: visible;
@@ -26,10 +44,25 @@ $theme-neuorange: #DCB088;
 
 .hex-timeline {
     display: flex;
+    flex-wrap: wrap;    // left to right, then a new row when the column is full
     align-items: center;
     position: relative;
-    min-width: max-content;
-    padding: 160px 30px 220px;
+    padding: $hex-timeline-padding-top 30px 150px;
+    row-gap: $hex-row-gap;
+
+    // Divider line halfway between rows, in the same colour as the line under headings.
+    // The line pattern repeats once per row and falls outside the box above the first
+    // row and below the last, so lines only appear between rows.
+    background-image: linear-gradient(to bottom, $table-border-color 1px, transparent 1px);
+    background-size: 100% $hex-row-pitch;
+    background-position: 0 ($hex-timeline-padding-top + $hex-height + $hex-row-gap * 0.5);
+    background-repeat: repeat-y;
+
+    // the single hexagon on the 404 page has no labels, so needs no room for them
+    &.hex-404 {
+        padding: 1rem 0;
+        background-image: none;
+    }
 }
 
 .hex-item {
@@ -82,7 +115,7 @@ $theme-neuorange: #DCB088;
 
 .hex-shape {
     width: 84px;
-    height: 97px;
+    height: $hex-height;
     clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
     display: flex;
     align-items: center;
