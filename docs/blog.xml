@@ -5,12 +5,32 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Homepage</title>
+<title>Home</title>
 <link>https://martigso.github.io/blog.html</link>
 <atom:link href="https://martigso.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.9.36</generator>
-<lastBuildDate>Sun, 27 Jul 2025 22:00:00 GMT</lastBuildDate>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Wed, 22 Apr 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Det gjenstår å se om et lobbyregister faktisk kommer på plass</title>
+  <link>https://martigso.github.io/posts/altinget20260423/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>En utredning av behovet for et lobbyregister er et skritt i riktig retning mot økt åpenhet om påvirkningsarbeid i norsk politikk. Men demokratisk valgte politikere har ikke gjort seg kjent for å innføre strengere regulering av seg selv, skriver Maiken Røed og Martin Søyland.</p>
+<p><a href="https://www.altinget.no/artikkel/det-gjenstaar-aa-se-om-et-lobbyregister-faktisk-kommer-paa-plass">Resten av artikkelen finner du her!</a></p>
+
+
+
+ ]]></description>
+  <category>norsk politikk</category>
+  <category>lobbyregister</category>
+  <guid>https://martigso.github.io/posts/altinget20260423/</guid>
+  <pubDate>Wed, 22 Apr 2026 22:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Også vi må være på vakt</title>
   <link>https://martigso.github.io/posts/kk20240728/</link>
@@ -72,26 +92,6 @@
   <pubDate>Tue, 04 Feb 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Det gjenstår å se om et lobbyregister faktisk kommer på plass</title>
-  <link>https://martigso.github.io/posts/altinget20260423/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>En utredning av behovet for et lobbyregister er et skritt i riktig retning mot økt åpenhet om påvirkningsarbeid i norsk politikk. Men demokratisk valgte politikere har ikke gjort seg kjent for å innføre strengere regulering av seg selv, skriver Maiken Røed og Martin Søyland.</p>
-<p><a href="https://www.altinget.no/artikkel/det-gjenstaar-aa-se-om-et-lobbyregister-faktisk-kommer-paa-plass">Resten av artikkelen finner du her!</a></p>
-
-
-
- ]]></description>
-  <category>norsk politikk</category>
-  <category>lobbyregister</category>
-  <guid>https://martigso.github.io/posts/altinget20260423/</guid>
-  <pubDate>Wed, 29 Jan 2025 23:00:00 GMT</pubDate>
-</item>
-<item>
   <title>Regjerings-exit for dummies</title>
   <link>https://martigso.github.io/posts/aftenposten20250130/</link>
   <description><![CDATA[ 
@@ -112,26 +112,6 @@
   <pubDate>Wed, 29 Jan 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Forskere fikk meldeplikt, men alle kildene var døde</title>
-  <link>https://martigso.github.io/posts/krono20220213/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><a href="https://www.khrono.no/forskere-fikk-meldeplikt-men-alle-kildene-var-dode/659290">Forskere fikk meldeplikt, men alle kildene var døde</a></p>
-
-
-
- ]]></description>
-  <category>forskning</category>
-  <category>personvern</category>
-  <category>stortinget</category>
-  <guid>https://martigso.github.io/posts/krono20220213/</guid>
-  <pubDate>Tue, 28 May 2024 22:00:00 GMT</pubDate>
-</item>
-<item>
   <title>Erna Solberg kom oftare til Stortinget enn Jonas Gahr Støre</title>
   <link>https://martigso.github.io/posts/nrk20240529/</link>
   <description><![CDATA[ 
@@ -149,6 +129,26 @@
   <category>demokrati</category>
   <category>institusjoner</category>
   <guid>https://martigso.github.io/posts/nrk20240529/</guid>
+  <pubDate>Tue, 28 May 2024 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Forskere fikk meldeplikt, men alle kildene var døde</title>
+  <link>https://martigso.github.io/posts/krono20220213/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.khrono.no/forskere-fikk-meldeplikt-men-alle-kildene-var-dode/659290">Forskere fikk meldeplikt, men alle kildene var døde</a></p>
+
+
+
+ ]]></description>
+  <category>forskning</category>
+  <category>personvern</category>
+  <category>stortinget</category>
+  <guid>https://martigso.github.io/posts/krono20220213/</guid>
   <pubDate>Tue, 28 May 2024 22:00:00 GMT</pubDate>
 </item>
 <item>
