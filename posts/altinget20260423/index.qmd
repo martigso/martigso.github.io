@@ -1,7 +1,7 @@
 ---
 title: "Det gjenstår å se om et lobbyregister faktisk kommer på plass"
 description: "Altinget"
-date: "2025-01-30"
+date: "2026-04-23"
 categories:
   - norsk politikk
   - lobbyregister
