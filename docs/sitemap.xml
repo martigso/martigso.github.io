@@ -2,86 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://martigso.github.io/publications.html</loc>
-    <lastmod>2026-09-28T20:42:48.000Z</lastmod>
+    <lastmod>2026-10-30T11:22:33.104Z</lastmod>
   </url>
   <url>
     <loc>https://martigso.github.io/index.html</loc>
-    <lastmod>2026-09-28T19:50:29.657Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/blog.html</loc>
-    <lastmod>2026-09-28T19:29:10.117Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/aftenposten20250130/index.html</loc>
-    <lastmod>2025-02-13T20:03:59.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/altinget20260423/index.html</loc>
-    <lastmod>2026-09-28T18:54:27.682Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/krono20220213/index.html</loc>
-    <lastmod>2026-09-28T19:28:57.407Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/nrk20240529/index.html</loc>
-    <lastmod>2026-09-28T19:28:57.418Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/ekko20250205/index.html</loc>
-    <lastmod>2026-09-28T19:28:57.409Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/ss/index.html</loc>
-    <lastmod>2026-09-28T19:28:57.416Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/sa20231110/index.html</loc>
-    <lastmod>2026-09-28T19:28:57.414Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/R.html</loc>
-    <lastmod>2023-09-28T12:08:35.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/conference.html</loc>
-    <lastmod>2026-09-28T20:42:48.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/dag_og_tid20230929/index.html</loc>
-    <lastmod>2023-10-24T07:21:18.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/vg20230817/index.html</loc>
-    <lastmod>2025-02-14T08:20:13.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/kk20240728/index.html</loc>
-    <lastmod>2025-08-22T12:39:27.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/jbl20130123/index.html</loc>
-    <lastmod>2025-08-22T12:41:51.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/jbl20210623/index.html</loc>
-    <lastmod>2026-09-28T19:28:57.410Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/abc20250723/index.html</loc>
-    <lastmod>2025-08-22T12:41:31.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://martigso.github.io/posts/tur/index.html</loc>
-    <lastmod>2026-09-28T19:28:57.415Z</lastmod>
+    <lastmod>2026-09-28T19:50:29.000Z</lastmod>
   </url>
   <url>
     <loc>https://martigso.github.io/data.html</loc>
     <lastmod>2024-09-07T18:21:58.000Z</lastmod>
   </url>
   <url>
+    <loc>https://martigso.github.io/posts/tur/index.html</loc>
+    <lastmod>2026-09-28T19:28:57.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/nrk20240529/index.html</loc>
+    <lastmod>2026-09-28T19:28:57.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/vg20230817/index.html</loc>
+    <lastmod>2025-02-14T08:20:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/krono20220213/index.html</loc>
+    <lastmod>2026-09-28T19:28:57.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/jbl20130123/index.html</loc>
+    <lastmod>2025-08-22T12:41:51.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/dag_og_tid20230929/index.html</loc>
+    <lastmod>2023-10-24T07:21:18.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/altinget20260423/index.html</loc>
+    <lastmod>2026-09-28T18:54:27.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/abc20250723/index.html</loc>
+    <lastmod>2025-08-22T12:41:31.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/aftenposten20250130/index.html</loc>
+    <lastmod>2025-02-13T20:03:59.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/kk20240728/index.html</loc>
+    <lastmod>2025-08-22T12:39:27.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/sa20231110/index.html</loc>
+    <lastmod>2026-09-28T19:28:57.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/ss/index.html</loc>
+    <lastmod>2026-09-28T19:28:57.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/ekko20250205/index.html</loc>
+    <lastmod>2026-09-28T19:28:57.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/posts/jbl20210623/index.html</loc>
+    <lastmod>2026-09-28T19:28:57.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/conference.html</loc>
+    <lastmod>2026-09-28T20:42:48.673Z</lastmod>
+  </url>
+  <url>
     <loc>https://martigso.github.io/teaching.html</loc>
     <lastmod>2023-10-17T13:09:29.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/blog.html</loc>
+    <lastmod>2026-09-28T19:29:10.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://martigso.github.io/R.html</loc>
+    <lastmod>2023-09-28T12:08:35.000Z</lastmod>
   </url>
 </urlset>

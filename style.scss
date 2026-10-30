@@ -25,6 +25,30 @@ $neuorange-for-this-theme: if(lightness($body-bg) > 50%, $theme-neuorange-darker
     object-fit: cover;
 }
 
+/* --- Sticker beside a publication --- */
+.pub-with-sticker {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+
+    .pub-text {
+        flex: 1 1 auto;
+        min-width: 0;   // lets the callout shrink instead of pushing the sticker off the page
+    }
+}
+
+.pub-sticker {
+    flex: 0 0 auto;
+    width: 130px;
+    height: auto;
+    transform: rotate(4deg);
+    filter: drop-shadow(2px 3px 4px rgba(0, 0, 0, 0.35));   // follows the cut-out edge, not the square
+
+    @media (max-width: 576px) {
+        width: 80px;
+    }
+}
+
 /* --- Hex Publication Timeline --- */
 // Labels hang this far above/below each row: the 46px zigzag shift
 // plus up to 5 lines of label text and 10px padding.
