@@ -50,13 +50,7 @@ $neuorange-for-this-theme: if(lightness($body-bg) > 50%, $theme-neuorange-darker
 }
 
 /* --- Hex Publication Timeline --- */
-// Labels hang this far above/below each row: the 46px zigzag shift
-// plus up to 5 lines of label text and 10px padding.
 $hex-height: 97px;
-$hex-label-reach: 136px;
-$hex-row-gap: 2 * $hex-label-reach + 78px;   // both rows' labels plus room around the divider line
-$hex-row-pitch: $hex-height + $hex-row-gap;  // distance from the top of one row to the next
-$hex-timeline-padding-top: 140px;
 
 .hex-timeline-outer {
     overflow-x: auto;
@@ -68,24 +62,16 @@ $hex-timeline-padding-top: 140px;
 
 .hex-timeline {
     display: flex;
-    flex-wrap: wrap;    // left to right, then a new row when the column is full
     align-items: center;
     position: relative;
-    padding: $hex-timeline-padding-top 30px 150px;
-    row-gap: $hex-row-gap;
-
-    // Divider line halfway between rows, in the same colour as the line under headings.
-    // The line pattern repeats once per row and falls outside the box above the first
-    // row and below the last, so lines only appear between rows.
-    background-image: linear-gradient(to bottom, $table-border-color 1px, transparent 1px);
-    background-size: 100% $hex-row-pitch;
-    background-position: 0 ($hex-timeline-padding-top + $hex-height + $hex-row-gap * 0.5);
-    background-repeat: repeat-y;
+    min-width: max-content;   // one long row; the outer box scrolls sideways
+    // Labels hang up to 136px above/below the row: the 46px zigzag shift
+    // plus up to 5 lines of label text and 10px padding.
+    padding: 140px 30px 150px;
 
     // the single hexagon on the 404 page has no labels, so needs no room for them
     &.hex-404 {
         padding: 1rem 0;
-        background-image: none;
     }
 }
 
